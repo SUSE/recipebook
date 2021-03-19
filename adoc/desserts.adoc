@@ -11,3 +11,9 @@ ifndef::env-github[]
 include::desserts/caramel_apple_pie.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<desserts/pink_stuff.adoc#, Pink Stuff>>
+endif::[]
+ifndef::env-github[]
+include::desserts/pink_stuff.adoc[]
+endif::[]

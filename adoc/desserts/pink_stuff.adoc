@@ -1,0 +1,34 @@
+[id='sec.pink_stuff']
+
+ifdef::env-github[]
+:imagesdir: ../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Pink Stuff
+image::pink_stuff/pinkstuff.jpg[Pink Stuff Jello Casserole, 640, 480]
+
+Contributed by: Jeremy 
+image:contributors/jeremy_m.png[Jeremy M]
+
+Pink Stuff is a quick dessert recipe that includes some unconventional
+ingredients mixed together to produce a slightly chewy jello
+casserole that will surprise and delight!
+
+You'll need:
+
+* 1 lg (16oz / 500ml) tub cool-whip or similar whipped topping
+* 1 lg (15oz / 450ml) can of crushed pineapple
+* 1 lg box of cherry jello mix
+* 1 lg (32oz / 1000ml) tub of  small curd cottage cheese
+* 1 can pineapple ring slices
+* 1 small jar maraschino cherries
+
+Preparation:
+
+. Thoroughly mix together Cool-Whip, crushed pineapple, jello mix, and cottage cheese
+. Top with pineapple rings and maraschino cherries
+

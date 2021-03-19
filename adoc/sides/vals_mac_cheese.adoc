@@ -1,0 +1,53 @@
+[id='sec.vals_mac_cheese']
+
+ifdef::env-github[]
+:imagesdir: ../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Aunt Val's Mac & Cheese
+image::mac_and_cheese/mac_and_cheese_half_recipe.png[Mac & Cheese, 480, 440]
+
+Contributed by: Jeremy 
+image:contributors/jeremy_m.png[Jeremy M]
+
+Aunt Val's Mac & Cheese is an old family recipe that my wifes
+sister gets credit for, but we believe it originated a generation
+or two earlier. Super creamy and incredibly rich, a little bit
+of this Mac will go a long way! For smaller groups consider
+halving this recipe, as it makes a lot!
+
+For the Mac you'll need:
+
+* 16oz (450g) box of macaroni noodles
+* 2 eggs lightly beaten
+* 4c (960ml) cottage cheese
+* 16oz (450g) plain yogurt
+* 1/4tsp (1.25ml) salt
+* 1/2tsp (2.5ml) pepper
+* 4c (960ml) shredded Velveeta
+
+Preparation:
+
+. Consider freezing the Velveeta for 2-4 hours before shredding. Longer freeze times may make it too hard, but at fridge temps its a mess to shred
+. Pre-heat oven to 350F (180C)
+. Cook the macaroni noodles according to directions on box, drain
+. Combine warm noodles, shredded Velveeta and all other ingredients in a large bowl and mix thoroughly
+. Place mixture into 13x9 or similar baking pan (or 8x8 for half recipe)
+. Sprinkle topping (steps below) on top
+. Bake for 30 minutes
+
+For the topping you'll need:
+
+* 1/2c (120ml) breadcrumbs
+* 1.5tbsp (22ml) butter
+
+Preparation:
+
+. Melt butter
+. Combine melted butter with breadcrumps, stir thoroughly with fork
+. Sprinkle over top of noodle mixture per instructions above
+
