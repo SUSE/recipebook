@@ -1,0 +1,5 @@
+[id=sec.Entrees]
+== Entrees
+
+Entrees are dishes that are the focal point of a meal.
+

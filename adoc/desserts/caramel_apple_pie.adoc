@@ -1,0 +1,76 @@
+[id='sec.caramel_apple_pie']
+
+ifdef::env-github[]
+:imagesdir: ../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Caramel Apple Pie
+image::caramel_apple_pie/pie_on_plate.jpg[Slice of pie on a plate, 640, 480]
+
+Contributed by: Jeremy 
+image:contributors/jeremy_m.png[Jeremy M]
+
+
+This caramel apple pie is a very sweet two crust pie filled with
+caramel and apples. The homemade pie crust should be prepared
+beforehand. If making in a large pan such as a 13x9 rather than
+a smaller pie tin, double the recipe.
+
+For the crust you'll need:
+
+* 2c (4 3/4 dl) flour
+* 1/2c (1 1/8 dl) cold water
+* 1/2c (1 1/8 dl) butter (softened, diced)
+* 1/2c (1 1/8 dl) shortening (diced)
+
+Preparation:
+
+. Mix together ingredients in a bowl until slightly doughy and still damp
+. Roll mixture separate mixture into two halves
+. Wrap each half in plastic or in a ziplock bag
+. Refrigerate overnight
+
+For the pie filling you'll need:
+
+* 6-8 apples, a mix of Granny Smith and sweeter apples such as Fuji work best
+* 1/2c (1 1/8 dl)brown sugar
+* 1tbsp (15 ml) cinnamon
+* 1 bag soft caramel candies
+* 1tbsp (15 ml) butter
+
+Preparation:
+
+. Pre-heat over to 350F/180C
+. Remove pie crust from fridge
+. Roll out one pie crust on a floured rolling mat to size of baking pan
+. Place rolled crust in pie pan
+. Roll out second pie crust, leave on rolling mat for now
+. Start water in double boiler
+. Unwrap caramel candies and set aside in bowl
+. Add butter and caramel candies to double boiler,
+  stir occasionally while performing other prep work
+. Peel, core, and slice apples. This is done most easily 
+  with a hand cranked apple peeler. Put apple slices into bowl.
+. Mix brown sugar and cinnamon into apples. Thoroughly mix with clean hands or spoon.
+. Layer apple slices into pie pan on to of bottom crust
+. Once caramel is fully melted, drizzle over apple slices
+. Apply top crust to pie, crimping edges with fingers or fork
+. Bake pie in oven for 1 hour
+. Remove pie and let sit for at least 1 hour before serving
+
+One crust rolled out, another in the pan waiting:
+
+image::caramel_apple_pie/pie_crust.jpg[Pie Crust, 640, 480]
+
+Apples being mixed:
+
+image::caramel_apple_pie/apples_in_bowl.jpg[Apples with Brown Sugar and Cinnamon, 640, 480]
+
+After applying caramel:
+
+image::caramel_apple_pie/pie_with_caramel.jpg[Pie After adding Caramel, 640, 480]
+

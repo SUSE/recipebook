@@ -1,0 +1,76 @@
+== Innovate Everywhere Recipes
+
+You can view these recipes three ways:
+
+* Clone the repo and open MAIN.recipes.adoc locally in a browser that supports
+  AsciiDoc or in another tool such as asciidoctor
+
+* Build a local copy in the format of your choosing.
+
+* The GitHub preview of the in-development recipes is at
+<<adoc/MAIN.recipes.adoc#>>.
+
+=== Known Issues
+
+The github preview does not display images correctly.
+
+The pdf build stretches images to fill the page, distoring them
+and consuming extra space in a way that is not visually appealing.
+
+The pdf build table of contents is only 1 level deep.
+
+The html build does not copy pictures to the necessary location.
+
+One possible solution for the build issues would be to switch from
+DAPS to asciidoctor. If you're interested in doing the refactoring
+please feel free!
+
+=== Contributing
+
+Want to help? We love to hear that! Below are a few hints to guide you.
+
+==== Writing
+
+These release notes are written in the AsciiDoc (`*.adoc`) format. For some
+great AsciiDoc documentation, see https://asciidoctor.org/docs/asciidoc-writers-guide/.
+
+==== Updating Content
+
+. Fork this repository.
+
+. Make the intended changes. (Make sure to read <<sec.github-preview>>.)
+
+. Validate and build a test version (see below for more details)
+
+. Submit the changes as a pull request
+
+=== Building the Recipe book
+
+For validation and test purposes follow the steps below:
+
+. Install the DocBook Authoring and Publishing Suite (daps) package from the
+link:https://build.opensuse.org/package/show/Documentation:Tools/daps[Documentation:Tools]
+openSUSE Build Service project.
+
+. Use the `make` to build all required documents. For a single HTML document,
+for example `make single-html`.
+
+[id="sec.github-preview"]
+=== Keeping the GitHub Preview of The Recipe Book Intact
+
+The GitHub preview mode is handy but comes with a couple of snags compared to
+the build of the release notes that is used for the SUSE Web site:
+
+** GitHub will simply render a preview of a single `*.adoc` file using
+AsciiDoctor's built-in HTML conversion. GitHub previews do not support
+embedding one AsciiDoc file in another, you can only use links between them.
+
+** The build combines multiple `*.adoc` files into a single HTML
+output file. It is based on AsciiDoctor's AsciiDoc-to-DocBook-XML conversion,
+the result of which is then further converted into HTML/PDF using DAPS and the
+DocBook XSL stylesheets.
+
+For this reason, the central file `adoc/MAIN.recipes.adoc` and the top level
+adoc files contain somewhat unsightly `ifdef`/`ifndef` blocks that check whether 
+the file is displayed in the GitHub preview, switching between using links to other files
+for GitHub and `include::` statement in all other cases.
