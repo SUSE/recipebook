@@ -17,3 +17,11 @@ endif::[]
 ifndef::env-github[]
 include::desserts/pink_stuff.adoc[]
 endif::[]
+
+ifdef::env-github[]
+<<desserts/chocolate_muffins_with_liquid_core.adoc#, Chocolate Muffins With Liquid Core>>
+endif::[]
+ifndef::env-github[]
+include::desserts/chocolate_muffins_with_liquid_core.adoc[]
+endif::[]
+
