@@ -1,0 +1,43 @@
+[id='sec.chocolate_muffins_with_liquid_core']
+
+ifdef::env-github[]
+:imagesdir: ../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Chocolate Muffins with liquid core
+image::chocolate_muffins_with_liquid_core/IMG_0853.jpg[Chocolate Muffin, 640, 480]
+
+Contributed by: Robert 
+image:contributors/robert_s.png[Robert]
+
+Chocolate Muffins, as made by my 12y old. 
+
+You'll need
+
+* 200g Butter 
+* 200g bitter Chocolate 
+* 100g Wheat Flour (Type 405)
+* 200g Sugar
+* 50g Cocoa Powder
+* 6 Eggs
+* Icing Sugar to optionally powder 
+
+image::chocolate_muffins_with_liquid_core/IMG_0844.jpg[Ingredients, 640, 480]
+
+Preparation:
+
+. Put eggs to a mixing bowl, add sugar and stir them well
+. Melt the bitter chocolate with the butter in a bain-marie and fold in the sugar-egg mass
+. Add flour and cacoa powder and stir it with the hand mixer.
+. Lube a muffin form or use paper forms, fill it with the mass
+. Bake it 15 minutes at 200°C (pre-heated), in the center
+. Optionally add some icing sugar on top 
+
+image::chocolate_muffins_with_liquid_core/IMG_0848.jpg[Muffins before, 640, 480]
+image::chocolate_muffins_with_liquid_core/IMG_0851.jpg[Muffins after, 640, 480]
+
+Enjoy the muffins while warm and when the core is still liquid.
