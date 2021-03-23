@@ -1,7 +1,7 @@
 [id='sec.chocolate_muffins_with_liquid_core']
 
 ifdef::env-github[]
-:imagesdir: ../images
+:imagesdir: ../../images
 endif::[]
 ifndef::env-github[]
 :imagesdir: images
@@ -12,7 +12,7 @@ endif::[]
 image::chocolate_muffins_with_liquid_core/IMG_0853.jpg[Chocolate Muffin, 640, 480]
 
 Contributed by: Robert 
-image:contributors/robert_s.png[Robert]
+image:contributors/robert_s.png[Robert, 320, 240]
 
 Chocolate Muffins, as made by my 12y old. 
 

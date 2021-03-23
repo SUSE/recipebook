@@ -1,7 +1,7 @@
 [id='sec.pink_stuff']
 
 ifdef::env-github[]
-:imagesdir: ../images
+:imagesdir: ../../images
 endif::[]
 ifndef::env-github[]
 :imagesdir: images
