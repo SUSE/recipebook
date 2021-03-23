@@ -3,3 +3,11 @@
 
 Entrees are dishes that are the focal point of a meal.
 
+ifdef::env-github[]
+<<entrees/lentil_dal.adoc#, Lentil Dal>>
+endif::[]
+ifndef::env-github[]
+include::entrees/lentil_dal.adoc[]
+endif::[]
+
+
