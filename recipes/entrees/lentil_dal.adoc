@@ -1,0 +1,58 @@
+[id='sec.lentil_dal']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Lentil Dal
+
+This lentil dal is hearty enough to stand on its own as an
+entree served with jasmine rice or as a side to your favorite
+Indian meal. 
+
+.Ingredients
+[width="80%",cols="2,2,10",options="header"]
+|=========================================================
+|English |Metric |Ingredient
+
+|1 Tbsp |15 ml | Olive oil
+|1 cup |250 ml | Yellow onion (chopped)
+|1 Tbsp |15 ml | Fresh ginger (peeled, minced)
+|1 tsp |5 ml | Cumin seed
+|1 tsp |5 ml | Ground turmeric
+|1/2 tsp |2.5 ml | Crushed red pepper, or to taste
+|4 cloves |4 cloves |Garlic (minced)
+|2 cup |500 ml |Cauliflower florets (chopped)
+|2 cup |500 ml | Tomatoes (chopped)
+|2 1/2 cup |675 ml | Water
+|1 cup |250 ml | Dried lentils, any color
+|2 Tbsp |30 ml | Fresh lime juice
+|1 Tbsp |15 ml | Fresh cilantro (minced)
+|3/4 tsp |3.5 ml | Salt, or to taste
+|=========================================================
+
+Preparation:
+
+1. Heat olive oil in large saucepan or dutch oven over med-high 
+heat. Add onion and next 5 ingredients (onions through garlic) and 
+saute 2 minutes.
+
+2. Add cauliflower and tomato; saute 1 minute.
+
+3. Stir in water and lentils; bring to a boil. 
+
+3. Cover, reduce heat, and simmer 35 minutes or until lentils are 
+tender.
+
+4. Stir in lime juice, cilantro, and salt. 
+
+5. Serve with or over rice.
+
+Voila!
+
+image::lentil_dal/lentil_dal_on_plate.jpg[Enjoy!, 640, 480]
+

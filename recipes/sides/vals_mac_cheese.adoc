@@ -1,7 +1,7 @@
 [id='sec.vals_mac_cheese']
 
 ifdef::env-github[]
-:imagesdir: ../images
+:imagesdir: ../../images
 endif::[]
 ifndef::env-github[]
 :imagesdir: images

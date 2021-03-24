@@ -1,7 +1,7 @@
 [id='sec.caramel_apple_pie']
 
 ifdef::env-github[]
-:imagesdir: ../images
+:imagesdir: ../../images
 endif::[]
 ifndef::env-github[]
 :imagesdir: images

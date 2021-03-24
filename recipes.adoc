@@ -1,0 +1,74 @@
+
+:imagesdir: images
+
+:docinfo:
+
+= The Innovate Everywhere Recipe Book
+:toc:
+
+Welcome to the Innovate Everywhere Recipe Book!
+Open Source contributors from around the globe have contributed recipes
+to share some of the tastiest creations around. Within these virtual
+pages find entrees, sides, desserts, and drinks that will tantalize
+the tastebuds and impress your friends! Innovation doesn't stop at
+dinner time, its time to bring open source to your kitchen!
+Have a lot of fun!
+
+[id=sec.Entrees]
+== Entrees
+
+Entrees are dishes that are the focal point of a meal.
+
+ifdef::env-github[]
+<<recipes/entrees/lentil_dal.adoc#, Lentil Dal>>
+endif::[]
+ifndef::env-github[]
+include::recipes/entrees/lentil_dal.adoc[]
+endif::[]
+
+[id='sec.sides']
+== Side Dishes
+
+Side dishes complete a meal, providing a compliment to the entree like
+the bass line in a song... essential components for a full experience.
+
+ifdef::env-github[]
+<<recipes/sides/vals_mac_cheese.adoc#, Val's Macaroni & Cheese>>
+endif::[]
+ifndef::env-github[]
+include::recipes/sides/vals_mac_cheese.adoc[]
+endif::[]
+
+[id='sec.desserts']
+== Desserts
+
+Desserts bring a fanciful finsh to a proper meal, like the sunset after a
+great day, dessert reminds us of the joy we experienced during our meal.
+
+ifdef::env-github[]
+<<recipes/desserts/caramel_apple_pie.adoc#, Caramel Apple Pie>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/caramel_apple_pie.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/pink_stuff.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/chocolate_muffins_with_liquid_core.adoc#, Chocolate Muffins With Liquid Core>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
+endif::[]
+
+[id='sec.beverages']
+== Beverages
+
+The perfect beverage may accompany a meal or stand all on its own.
+Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
+cover the gamut of experiences from refreshing to stimulating.
