@@ -1,0 +1,63 @@
+[id='sec.raspberry_pretzel_salad']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Raspberry Pretzel Salad
+image::raspberry_pretzel_salad/raspberry_pretzel_salad.jpg[Raspberry Pretzel Salad, 264, 245]
+
+Contributed by: Mike Latimer
+image:contributors/mike_l.png[Mike L]
+
+This Raspberry Pretzel Salad is a surprisingly delicious treat
+for any holiday or special occasion. The combination of salty
+pretzels, tangy raspberries, and fluffy cream cheese can only
+be described as amazing!
+
+==== The Crust Layer (first)
+Ingredients::
+
+* 2c (480ml) pretzels (use the small knots, such as Rold Gold Tiny Twists)
+* 1 to 1½c (240-360ml) melted butter
+* 3tsp (15ml) sugar
+
+Preparation::
+
+. Coarsely crush pretzels with rolling pin.
+. Mix all crust layer ingredients and pat into a 9x13in (23x33cm) pan.
+. Bake at 400F (205C) for 5 mins.
+. COOL completely!
+
+==== The Cream Cheese Layer (second)
+Ingredients::
+
+* 8oz (225g) package of cream cheese
+* 1c (240ml) sugar
+* 12oz (340g) carton of whipped cream (Cool Whip is recommended)
+
+Preparation::
+
+. Mix the cream cheese and sugar.
+. Fold in the whipped cream.
+. Spread mixture over top of crust sealing all edges.
+. Refrigerate!
+
+==== The Raspberry Jello Layer (third)
+Ingredients::
+
+* 8oz (225g) package of raspberry flavord Jell-O
+* 2c (480ml) boiling water
+* 20-30oz (560-840g) (2 or 3 packages) frozen raspberries
+
+Preparation::
+
+. Combine all raspberry jello layer ingredients.
+. Remove from heat and let jello set.
+. Spread jello mixture over the cream cheese layer.
+. Refrigerate until time to eat.
+. Enjoy!
