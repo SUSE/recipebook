@@ -1,0 +1,38 @@
+[id='sec.potato_soup']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Potato Soup
+
+.Ingredients
+[width="80%",cols="2,6,6",options="header"]
+|=========================================================
+|Metric | Ingredient | German/Zutat
+
+|400 ml | Water | Wasser
+|4 g / 0.4 pc | Stock cube | Brühwürfel
+|1 g / 0.5 leaf | Bay Leaf | Lorbeer
+|5 ml | Paprika powder | Paprikapulver
+|300 g | Potatoes | Kartoffeln
+|50 g | Onion | Zwiebel
+|50 g | Wiener sausage | Wiener Würstchen oder Cabanossi
+|150 g | Red Pepper/Paprika | Rote Paprika
+|50 g | Heavy cream cheese | Doppelrahmkäse
+|50-100 g | Bread | Brot (optional)
+|=========================================================
+
+Preparation:
+
+1. Multiply amount of ingedients with number of persons and procure suffient amounts.
+
+2. Heat water in a pot and add ingredients in the listed order while it keeps cooking. Cut potatoes, sausage and paprika in pieces of 1-2 cm. Dice onions to approx 5 mm.
+
+3. Add cream cheese last and take the pot off the heat. Stirr until it dissolved.
+
+4. Serve (optional: with a slice of bread)

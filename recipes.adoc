@@ -84,6 +84,17 @@ ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
 endif::[]
 
+[id='sec.soups']
+== Soups
+
+Soup is an all-in-one semi-liquid food. It is a simple and fast way to fill your stomach.
+
+ifdef::env-github[]
+<<recipes/soups/potato-soup.adoc#, Potato Soup>>
+endif::[]
+ifndef::env-github[]
+include::recipes/soups/potato-soup.adoc[]
+endif::[]
 
 [id='sec.desserts']
 == Desserts
