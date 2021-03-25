@@ -1,5 +1,12 @@
 [id='sec.chicken-leek-pie']
 
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
 === Creamy Chicken and Leek Pie
 image::chicken-leek-pie/chicken-leek-pie.jpeg[Chicken and Leek Pie Filling, 264, 245]
 
