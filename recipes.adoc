@@ -29,10 +29,10 @@ include::recipes/entrees/lentil_dal.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/main/chicken-leek-pie.adoc#, Chicken and Leek Pie>>
+<<recipes/entrees/chicken-leek-pie.adoc#, Chicken and Leek Pie>>
 endif::[]
 ifndef::env-github[]
-include::recipes/main/chicken-leek-pie.adoc[]
+include::recipes/entrees/chicken-leek-pie.adoc[]
 endif::[]
 
 
