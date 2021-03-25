@@ -10,9 +10,9 @@ Welcome to the Innovate Everywhere Recipe Book!
 
 Open Source contributors from around the globe have contributed recipes
 to share some of the tastiest creations around. Within these virtual
-pages find main (main course, for those outside the US), sides,
-desserts, and drinks that will tantalize the tastebuds and impress your
-friends! Innovation doesn't stop at dinner time, its time to bring open
+pages find main dishes (entrees for those in the US), sides, desserts,
+and drinks that will tantalize the taste buds and impress your friends!
+Innovation doesn't stop at dinner time, its time to bring open
 source to your kitchen!
 Have a lot of fun!
 
@@ -81,7 +81,7 @@ endif::[]
 [id='sec.desserts']
 == Desserts
 
-Desserts bring a fanciful finsh to a proper meal, like the sunset after a
+Desserts bring a fanciful finish to a proper meal, like the sunset after a
 great day, dessert reminds us of the joy we experienced during our meal.
 
 ifdef::env-github[]
