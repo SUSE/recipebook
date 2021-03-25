@@ -73,6 +73,14 @@ ifndef::env-github[]
 include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/desserts/skubanky.adoc#, Škubánky>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/skubanky.adoc[]
+endif::[]
+
+
 [id='sec.beverages']
 == Beverages
 
