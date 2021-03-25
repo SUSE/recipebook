@@ -10,6 +10,21 @@
 
 Want to help? We love to hear that! Below are a few hints to guide you.
 
+1. Create a new recipe file under recipes/<appropriate_directory>/ 
+   Consider copying the recipe_template.adoc from the top level folder
+   to have a baseline to work from.
+2. Make sure you include a section identifier `[id='sec.recipe_name']` and a title `=== Recipe Name`
+   each on their own line and separated by an empty line from other content
+3. Add a reference to the new recipe to recipes.adoc in the top level
+4. Add any images to images/<recipe_name>/
+5. build the docs with docbuild.sh (requires asciidoctor, see below for install details)
+6. check the output at build/recipes.html to verify it matches the formatting you want
+
+It is recommended to start your recipe by copying recipe_template.adoc from the top
+level folder. Alternately, look at the existing recipes to copy the formatting for
+setting the images folder, which is a little awkward as we want it to render correctly
+with github's preview.
+
 ==== Writing
 
 These release notes are written in the AsciiDoc (`*.adoc`) format. For some
