@@ -26,6 +26,19 @@ ifndef::env-github[]
 include::recipes/entrees/lentil_dal.adoc[]
 endif::[]
 
+[id='sec.main']
+== Main Dishes
+
+Main dishes are the center of the meal, or the complete meal.
+
+ifdef::env-github[]
+<<recipes/main/lasagne_bolognaise.adoc#, Lasagne Bolognaise>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/lasagne_bolognaise.adoc[]
+endif::[]
+
+
 [id='sec.sides']
 == Side Dishes
 
