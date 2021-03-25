@@ -57,6 +57,13 @@ ifndef::env-github[]
 include::recipes/main/lasagne_bolognaise.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/honey_walnut_shrimp.adoc[]
+endif::[]
+
 [id='sec.sides']
 == Side Dishes
 
