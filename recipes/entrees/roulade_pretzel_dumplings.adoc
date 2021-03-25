@@ -1,7 +1,7 @@
 [id='sec.roulades_pretzel_dumplings']
 
 ifdef::env-github[]
-:imagesdir: ../images
+:imagesdir: ../../images
 endif::[]
 ifndef::env-github[]
 :imagesdir: images
