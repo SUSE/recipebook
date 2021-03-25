@@ -14,23 +14,31 @@ the tastebuds and impress your friends! Innovation doesn't stop at
 dinner time, its time to bring open source to your kitchen!
 Have a lot of fun!
 
-[id=sec.Entrees]
-== Entrees
+[id='sec.main']
+== Main Courses
 
-Entrees are dishes that are the focal point of a meal.
-
-ifdef::env-github[]
-<<recipes/entrees/lentil_dal.adoc#, Lentil Dal>>
-endif::[]
-ifndef::env-github[]
-include::recipes/entrees/lentil_dal.adoc[]
-endif::[]
+Main courses are the star of your meal, either stand alone or
+complemented by a side dish.
 
 ifdef::env-github[]
-<<recipes/entrees/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
+<<recipes/main/pasta_al_limone.adoc#, Pasta al limone>>
 endif::[]
 ifndef::env-github[]
-include::recipes/entrees/roulade_pretzel_dumplings.adoc[]
+include::recipes/main/pasta_al_limone.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/lentil_dal.adoc#, Lentil Dal>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/lentil_dal.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/roulade_pretzel_dumplings.adoc[]
 endif::[]
 
 [id='sec.sides']
@@ -51,20 +59,6 @@ ifdef::env-github[]
 endif::[]
 ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
-endif::[]
-
-
-[id='sec.main']
-== Main Courses
-
-Main courses are the star of your meal, either stand alone or
-complemented by a side dish.
-
-ifdef::env-github[]
-<<recipes/main/pasta_al_limone.adoc#, Pasta al limone>>
-endif::[]
-ifndef::env-github[]
-include::recipes/main/pasta_al_limone.adoc[]
 endif::[]
 
 
