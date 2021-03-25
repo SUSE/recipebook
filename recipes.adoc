@@ -7,11 +7,13 @@
 :toc:
 
 Welcome to the Innovate Everywhere Recipe Book!
+
 Open Source contributors from around the globe have contributed recipes
 to share some of the tastiest creations around. Within these virtual
-pages find entrees, sides, desserts, and drinks that will tantalize
-the tastebuds and impress your friends! Innovation doesn't stop at
-dinner time, its time to bring open source to your kitchen!
+pages find entrees (main course, for those outside the US), sides,
+desserts, and drinks that will tantalize the tastebuds and impress your
+friends! Innovation doesn't stop at dinner time, its time to bring open
+source to your kitchen!
 Have a lot of fun!
 
 [id=sec.Entrees]
@@ -27,6 +29,12 @@ include::recipes/entrees/lentil_dal.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/entrees/chicken-leek-pie.adoc#, Chicken and Leek Pie>>
+endif::[]
+ifndef::env-github[]
+include::recipes/entrees/chicken-leek-pie.adoc[]
+endif::[]
+
 <<recipes/entrees/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
 endif::[]
 ifndef::env-github[]

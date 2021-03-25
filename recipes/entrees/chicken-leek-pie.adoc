@@ -1,0 +1,89 @@
+[id='sec.chicken-leek-pie']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Creamy Chicken and Leek Pie
+image::chicken-leek-pie/chicken-leek-pie.jpeg[Chicken and Leek Pie Filling, 270, 230]
+
+I took this lovely recipe from the BBC, but adjusted it slightly for taste
+and ease. It's become a complete favourite in our house! It's so easy, with
+simple ingredients. Next time, I think I would like to try adding more
+vegetables for more flavour.
+
+
+Enjoy with a lovely white wine - as modelled by me.
+
+Contributed by: Alex Settle
+image:contributors/asettle-wine.jpg[Alex and her Wine, 264, 245]
+
+Pie Ingredients::
+
+* 50g butter
+* 1 leek, finely sliced
+* 8 skinless, boneless chicken thighs, cut into chunks
+* 1 thyme sprig, leaves picked
+* 2 bay leaves
+* 2 tbsp plain flour
+* 100ml white wine or dry sherry
+* 300ml chicken stock
+* 100ml crème fraîche (sour cream) or double cream
+* 1 tbsp mustard (I recommend wholegrain, but any mustard works)
+* 2 tsp of smoked paprika
+
+Pastry Ingredients::
+
+NOTE: I, personally, would just buy puff pastry. I'd recommend at least 2 sheets
+of pastry if you'd like to line the tin, or one is just fine if you prefer your
+pie without a bottom. However, if you're feeling adventurous...
+
+* 150g cold butter, cut into cubes, plus extra for the dish
+* 400g self-raising flour, plus extra for dusting
+* 1 egg, beaten
+
+Method::
+
+1. Melt the butter in a casserole dish over a low heat (If you do not have a
+   casserole dish that can be used on the hob and in the oven, use a large pan).
+2. Add the leek, chicken, herbs and seasoning, and cook for 10-12 mins until
+   the chicken is cooked, the leeks have softened, and the mixture is simmering.
+3. Stir in the flour and cook for 3 mins until the mix resembles a sandy paste.
+4. Pour in the wine or sherry, and bubble for 1 min, then stir in the stock,
+   crème fraîche or cream and the mustard.
+5. Bring to a simmer. Cook for 10 mins until the chicken is cooked through.
+6. Season to taste with smoked paprika, salt, and pepper. Remove from the heat and
+   leave to cool completely.
+7. Chill for 2 hrs, or overnight.
+
+If you are making the pastry...
+
+1. Rub the butter into the flour with a large pinch of salt until completely
+   combined.
+2. Add half the beaten egg and 4 tbsp ice-cold water, and bring together into
+   a dough using your hands, adding a little more water if needed.
+3. Knead for a minute so it completely comes together, then chill for 1 hr.
+
+Back to the pie...
+
+1. Butter a 20cm loose-bottomed cake tin. Roll two-thirds of the pastry out
+   until large enough to line the tin with some overhanging.
+2. Use it to line the tin, then spoon in the filling. Roll out the remaining
+   pastry until large enough to cover the pie.
+3. Brush the edge of the pastry with a little of the remaining beaten egg,
+   then drape over the pie to close it.
+4. Trim the edge, then press with a fork to seal. Chill until you’re ready to
+   cook. Will keep chilled for up to 24 hrs.
+
+Cooking::
+
+1. Heat the oven to 220C/200C fan/gas 7 with a baking sheet inside. Brush the
+   pie with some of the remaining beaten egg, then lightly score a criss-cross
+   pattern on top using a sharp knife.
+2. Bake on the hot sheet for 20 mins, then brush with the rest of the egg,
+   season with sea salt flakes and bake for 15-20 mins more until deep golden.
+3. Remove from the oven and rest for 10 mins, then carefully remove from the
+   tin, put on a board and cut into wedges to serve.
