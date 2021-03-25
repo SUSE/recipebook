@@ -35,10 +35,18 @@ ifndef::env-github[]
 include::recipes/entrees/chicken-leek-pie.adoc[]
 endif::[]
 
+ifdef::env-github[]
 <<recipes/entrees/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
 endif::[]
 ifndef::env-github[]
 include::recipes/entrees/roulade_pretzel_dumplings.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/entrees/lasagne_bolognaise.adoc#, Lasagne Bolognaise>>
+endif::[]
+ifndef::env-github[]
+include::recipes/entrees/lasagne_bolognaise.adoc[]
 endif::[]
 
 [id='sec.sides']
