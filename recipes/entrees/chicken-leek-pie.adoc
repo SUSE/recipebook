@@ -1,7 +1,7 @@
 [id='sec.chicken-leek-pie']
 
 === Creamy Chicken and Leek Pie
-image::chicken-leek-pie/chicken-leek-pie.jpg[Chicken and Leek Pie Filling, 264, 245]
+image::chicken-leek-pie/chicken-leek-pie.jpeg[Chicken and Leek Pie Filling, 264, 245]
 
 I took this lovely recipe from the BBC, but adjusted it slightly for taste
 and ease. It's become a complete favourite in our house! It's so easy, with
@@ -12,7 +12,7 @@ vegetables for more flavour.
 Enjoy with a lovely white wine - as modelled by me.
 
 Contributed by: Alex Settle
-image:contributors/asettle.png[Alex and her Wine]
+image:contributors/asettle-wine.jpg[Alex and her Wine]
 
 Pie Ingredients::
 
