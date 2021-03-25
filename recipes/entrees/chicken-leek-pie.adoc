@@ -19,7 +19,7 @@ vegetables for more flavour.
 Enjoy with a lovely white wine - as modelled by me.
 
 Contributed by: Alex Settle
-image:contributors/asettle-wine.jpg[Alex and her Wine]
+image:contributors/asettle-wine.jpg[Alex and her Wine, 264, 245]
 
 Pie Ingredients::
 
