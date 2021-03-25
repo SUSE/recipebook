@@ -1,0 +1,24 @@
+---
+name: Build the recipebook
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    name: run the build script
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: install asciidoctor
+        run: sudo gem install asciidoctor
+
+      - name: run the build script
+        run: ./docbuild.sh
+
+      - name: upload build directory
+        uses: 'actions/upload-artifact@v2'
+        with:
+          name: webpage
+          path: ./build
