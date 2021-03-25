@@ -33,6 +33,13 @@ Side dishes complete a meal, providing a compliment to the entree like
 the bass line in a song... essential components for a full experience.
 
 ifdef::env-github[]
+<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
+endif::[]
+ifndef::env-github[]
+include::recipes/sides/raspberry_pretzel_salad.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/sides/vals_mac_cheese.adoc#, Val's Macaroni & Cheese>>
 endif::[]
 ifndef::env-github[]
