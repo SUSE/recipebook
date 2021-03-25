@@ -35,6 +35,11 @@ ifndef::env-github[]
 include::recipes/entrees/chicken-leek-pie.adoc[]
 endif::[]
 
+<<recipes/entrees/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
+endif::[]
+ifndef::env-github[]
+include::recipes/entrees/roulade_pretzel_dumplings.adoc[]
+endif::[]
 
 [id='sec.sides']
 == Side Dishes
@@ -43,11 +48,33 @@ Side dishes complete a meal, providing a compliment to the entree like
 the bass line in a song... essential components for a full experience.
 
 ifdef::env-github[]
+<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
+endif::[]
+ifndef::env-github[]
+include::recipes/sides/raspberry_pretzel_salad.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/sides/vals_mac_cheese.adoc#, Val's Macaroni & Cheese>>
 endif::[]
 ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
 endif::[]
+
+
+[id='sec.main']
+== Main Courses
+
+Main courses are the star of your meal, either stand alone or
+complemented by a side dish.
+
+ifdef::env-github[]
+<<recipes/main/pasta_al_limone.adoc#, Pasta al limone>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/pasta_al_limone.adoc[]
+endif::[]
+
 
 [id='sec.desserts']
 == Desserts
@@ -75,6 +102,14 @@ endif::[]
 ifndef::env-github[]
 include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
 endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/skubanky.adoc#, Škubánky>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/skubanky.adoc[]
+endif::[]
+
 
 [id='sec.beverages']
 == Beverages
