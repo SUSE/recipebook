@@ -46,6 +46,21 @@ ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
 endif::[]
 
+
+[id='sec.main']
+== Main Courses
+
+Main courses are the star of your meal, either stand alone or
+complemented by a side dish.
+
+ifdef::env-github[]
+<<recipes/main/pasta_al_limone.adoc#, Pasta al limone>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/pasta_al_limone.adoc[]
+endif::[]
+
+
 [id='sec.desserts']
 == Desserts
 
