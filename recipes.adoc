@@ -26,6 +26,13 @@ ifndef::env-github[]
 include::recipes/entrees/lentil_dal.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/entrees/roulade_pretzel_dumplings.adoc#, Roulade with Pretzel Dumplings>>
+endif::[]
+ifndef::env-github[]
+include::recipes/entrees/roulade_pretzel_dumplings.adoc[]
+endif::[]
+
 [id='sec.sides']
 == Side Dishes
 

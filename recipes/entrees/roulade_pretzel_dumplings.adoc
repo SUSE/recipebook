@@ -1,0 +1,144 @@
+[id='sec.roulades_pretzel_dumplings']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Roulades with Pretzel Dumplings
+
+Contributed by: Alex 
+image:contributors/alex_o.jpg[Alex O]
+
+Although roulades are well-known in most areas of Germany and surrounding
+countries this version is based on a family recipe which I've "improved" over
+time. Pretzel dumplings are a typical Bavarian side dish which harmonize
+perfectly with the roulades.
+
+==== Ingredients for the Roulades
+
+[width="80%",cols="2,2,10",options="header"]
+|=========================================================
+| English | Metric | Ingredient 
+
+| 4 thin slices (7 oz each) | 4 thin slices (200 g each) | Roulades from beef haunch (ask the butcher to cut them for you) 
+| | | Salt 
+| | | Black pepper 
+| | | Yellow mustard 
+| 4 | 4 | Onions 
+| | | Parsley 
+| 2 | 2 | Eggs 
+| 8-12 thin slices | 8-12 thin slices | Bacon 
+| 9 oz | 250 g | Spinach (frozen) 
+| 3 | 3 | Carrots 
+| 2 | 2 | Gherkins 
+| | | Butter oil / resolidified butter 
+| 2 cups | 500 ml | Water (optional: red wine)
+| | | Beef broth 
+| 1 Tbsp | 1 EL | Flour 
+| 1/2 - 1 cup | 125 ml - 250 ml | Cream 
+| | | Tomato paste 
+|=========================================================
+
+==== Preparing the Roulades
+
+image::roulades_pretzel_dumplings/preparing_roulades.jpg[Roulade preparation, 640, 480]
+
+1. Cook the eggs (about 7 min, not too hard), peel and cut into small pieces. Cut
+one of the carrots and the gherkins in stripes (so they'll fit into the
+roulade). Take the spinach out of the freezer to defrost.
+
+2. Dice 2 of the onions and roast them with some oil in a pan. Chop the
+parsley and add it to the onions.
+
+3. Flatten the roulades with a meat mallet (best to cover the meat with
+plastic wrap to avoid bruising it).
+
+4. Salt and pepper the roulades and spread mustard on each piece.
+
+5. Portion the roasted onions and eggs onto the roulades.
+
+6. Put 2-3 slices of bacon on each roulade.
+
+7. Distribute the spinach equally on the roulades.
+
+8. Distribute the carrot and gherkin stripes on the roulades.
+
+9. Roll up the roulades and fix them with small skewers or toothpicks.
+
+10. Sear the roulades with butter oil from all sides in a roasting tray.
+
+11. Meanwhile chop the remaining carrots and onions into bigger pieces and
+brown them with the roulades for a bit.
+
+12. Pour the water with beef broth (and optionally wine) into the roasting
+tray. Close the lid and cook for 1.5 - 2 hours either on the stove or in the
+oven.
+
+13. Remove the lid during the last 15 min so the liquid can start reducing.
+
+14. Remove the roulades once they are cooked and let them rest aside. Remove
+the skewers/toothpicks.
+
+15. Remove the vegetables with a slotted spoon. You can also keep (some) of
+them and blend it but that way the sauce will get thicker.
+
+16. Further reduce the remaining sauce and add tomato paste and cream as
+preferred. Optionally create a roux and add it to thicken the sauce.
+
+17. Add again the roulades when you're satisfied with the sauce. Keep warm
+until the dumplings are ready.
+
+
+==== Ingredients for the Pretzel Dumplings
+
+[width="80%",cols="2,2,10",options="header"]
+|=========================================================
+| English | Metric | Ingredient
+
+| 6-8 | 6-8 | (Lye) Pretzels or buns (old ones)
+| | | Salt 
+| 13 fl oz | 375 ml | Milk (lukewarm) 
+| 3-4 | 3-4 | Eggs 
+| 1-2 | 1-2 | Onions 
+| | | Parsley (chopped)
+| | | Oil (for braising) 
+|=========================================================
+
+==== Preparating the Dumplings
+
+image::roulades_pretzel_dumplings/preparing_dumplings.jpg[Dumpling preparation, 640, 480]
+
+1. Cut the pretzels (or buns) in litte pieces. 
+
+2. Heat the milk and pour over the pretzels. 
+
+3. Mix in the eggs and parsley, season with salt and pepper.
+
+4. Dice and roast the onions and add them to the dough.
+
+5. Let the dough rest for about 30 min. Stir it after half of the time.
+
+6. Form 6-8 dumplings and simmer them for about 25 min in saltwater.
+
+7. Remove the dumplings and serve them hot.
+
+Variant:
+
+Form a sausage and wrap it in plastic wrap. Tightly seal the ends (with knots
+if possible). Simmer in boiling saltwater for about 25 min. Cut in slices.
+
+Cold slices can also be roasted with butter in a pan, fits perfectly nearly
+every roast.
+
+==== Eat it
+
+Either way, serve the roulades with dumplings and pour some sauce over it.
+
+Bon appetit!
+
+image::roulades_pretzel_dumplings/roulades_pretzel_dumplings_recipe.jpg[Enjoy!, 640, 480]
+
