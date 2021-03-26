@@ -1,0 +1,36 @@
+[id='sec.grilled_jerk_pork_ribs']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Grilled Jerk Pork Ribs
+
+My sister encountered jerk pork in Jamaica and decided she had to make it at home. It took some trial and error, but this is her result.
+
+Best served with Red Stripe beer and lots of bread to put out the fire because it's SPICY! You can control some of the heat by selecting mild green chilis. Kathy says the best bread is sourdough and that you should serve it with a hot dipping sauce. Coleslaw would make a good side dish.
+
+Contributed by: Sheilagh Morlan & Kathryn Keisling
+
+Ingredients:
+
+My metric measurements may be a little off. If you're using those, suggest you taste to adjust spice.
+
+* as many country style pork ribs as you need - usually 3-4 per person
+* 16 oz (1 pint jar) pickled jalapeno peppers (450 g)
+* 12 oz (4 small cans) green chili peppers - Hatch chilis are best if you can get them (340 g or 4 x 85 g)
+* 2 leeks
+* 1 bunch green onions (scallions)
+* 1 1/2 tablespoons cinnamon (12 g)
+* 1 1/2 tablespoons sugar (12 g)
+* 1/2 tablespoon ground allspice (6 g)
+* 1 jar whole allspice (42 g)
+
+Grind the whole allspice coarsely - you can use a food processsor. Add all the remaining ingredients except the pork ribs into the food processor and blend until you have a thick paste. Spread the mixture over the ribs, cover, and refrigerate for 24 hours.
+
+Grill Low and Slow - over the lowest fire you can get. This will be the lowest setting on a gas grill. This is very important for the flavor. The ribs should cook at least 2 hours aidn 3 hours is better. 
+
+You can also use bone-in chicken pieces or a whole chicken. Removing the skin will allow the paste to permeate further into the meat.
