@@ -15,7 +15,7 @@ endif::[]
 === Grandma Betty Harvey's Brownies
 //heading ^^
 
-image::/home/harvey/recipebook/recipes/desserts/dister-waiter.png[140,140]
+image::desserts/dister-waiter.png[140,140]
 
 Contributed by: Mark Harvey
 //image:contributors/dister-waiter.png[140,140]
@@ -80,7 +80,7 @@ Preparation:
 
 //your Makefile ^^
 
-image::/home/harvey/recipebook/recipes/desserts/GrandmaBettyHarveysBrownies.png[Grandma Betty Harveys Brownies, 640, 480]
+image::desserts/GrandmaBettyHarveysBrownies.png[Grandma Betty Harveys Brownies, 640, 480]
 
 //fill in pictures as wanted, note the size settings if ratio is different
 
