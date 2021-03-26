@@ -62,6 +62,7 @@ ifdef::env-github[]
 endif::[]
 ifndef::env-github[]
 include::recipes/main/dutch_oven_chicken.adoc[]
+endif::[]
 
 ifdef::env-github[]
 <<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
