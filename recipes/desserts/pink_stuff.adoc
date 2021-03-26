@@ -20,12 +20,17 @@ casserole that will surprise and delight!
 
 You'll need:
 
-* 1 lg (16oz / 500ml) tub cool-whip or similar whipped topping
-* 1 lg (15oz / 450ml) can of crushed pineapple
-* 1 lg box of cherry jello mix
-* 1 lg (32oz / 1000ml) tub of  small curd cottage cheese
-* 1 can pineapple ring slices
-* 1 small jar maraschino cherries
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric       | US           | Ingredient                               | Zutat
+
+| 500ml       |  16oz        | tub cool-whip or similar whipped topping |
+| 450ml       |  15oz        | can of crushed pineapple                 |
+| 180ml box   |  6oz box     | cherry jello mix                         |
+| 1000ml      |  32oz        | small curd cottage cheese                |
+| 1 can       |  1 can       | pineapple ring slices                    |
+| 1 small jar |  1 small jar | maraschino cherries                      |
+|=========================================================
 
 Preparation:
 
