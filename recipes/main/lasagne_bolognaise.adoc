@@ -15,69 +15,77 @@ image::lasagne_bolognaise/IMG_0835.jpg[Lasagne Bolognaise, 640, 480]
 Contributed by: Robert 
 image:contributors/robert_s.png[Robert, 140, 140]
 
-Lasagne Bolognaise. My way, the Bolognaise made with some additional vegetables and a lot of Béchamel. Prep time is 1.5 hours but you'll have free time while it's in the oven. 
+Lasagne Bolognaise. My way, the Bolognaise made with some additional vegetables and a lot of Béchamel. Prep time is 1.5 hours but you'll have free time (to clean up the kitchen :-) while it's in the oven. 
 
-You'll need (depending on the size your baking dish):
+Quanitites are for 5-6 servings, you'll need (depending on the size your baking dish):
 
-(for the Bolognaise)
+.Bolognaise
+|=========================================================
+|Metric | Imperial | Ingredient | Zutat
 
-* 700g minced meet (pork, beef, or mixed)
-* 800g chopped Tomatoes (2 small cans)
-* tomato paste
-* 2 onions
-* small piece of celery
-* 2 carrots
-* 1 leek
-* 4 garlic cloves
-* Ketchup
-* basil
-* oregano
-* thyme
-* Tabasco
-* vegetable or meat broth
-* Salt
-* Olive oil
+|700g | 25 ounces | Minced Meet (pork, beef, or mixed) | Hackfleisch (Schwein, Rind, oder gemischt)
+|800g | 28 ounces | Chopped Tomatoes (2 small cans), or fresh Tomatoes | gehackte Tomaten (2 kleine Dosen), oder frische Tomaten
+|     |           | Tomato Paste | Tomatenmark
+|2    | 2         | Onions | Zwiebeln
+| 1/8 | 1/8       | Celery | Sellerie
+|2    | 2         | Carrots | Karotten
+|1    | 1         | Leek | Lauch
+|4    | 4         | Garlic Cloves | Knoblauchzehen
+|     |           | Ketchup | Ketchup
+|     |           | Basil | Basilikum
+|     |           | Oregano | Oregano
+|     |           | Thyme | Thymian
+|     |           | Tabasco | Tabasco
+|     |           | Vegetable or Meat Broth | Fleisch- oder Gemüsebrühe
+|     |           | Salt | Salz
+|     |           | Olive Oil | Olivenöl
+|=========================================================
 
-(for the Béchamel)
 
-* 800ml Milk
-* 60g Butter
-* 3 heaped Tablespoons wheat flour
-* nutmeg
-* white pepper
-* Salt
+.Béchamel
+|=========================================================
+|800ml | 27 fl oz | Milk | Milch
+| 60g  | 2 ounces | Butter | Butter
+| 3 heaped tbsp | 3 gehäufte EL | Wheat Flour | Weizenmehl
+|      |        | Ground Nutmeg | gemahlener Muskat
+|      |        | White Pepper | Weißer Pfeffer
+|      |        | Salt | Salz
+|=========================================================
 
-(and)
 
-* Lasagne noodles (without pre-cooking)
-* 250g grounded Cheese to gratinate
+.additionally
+|=========================================================
+|500g | 18 ounces | Lasagne noodles (without pre-cooking) | Lasagneblätter (ohne vorkochen)
+|250g | 9 ounces  | Grounded Cheese to gratinate | geriebener Käse zum Überbacken
+|=========================================================
+
 
 Preparation:
 
 (Bolognaise)
 
-. Roast gently the minced meat with olive oil until the water is almost gone
-. Chop the onions and add them, continue to roast. Add crushed garlic and some thyme
+. Roast gently the minced meat with olive oil until the water is almost gone.
+. Chop the onions and add them, continue to roast. Add crushed garlic and some thyme.
 . Chop carrots and celery and add them, still roast until it starts stick to the bottom or is too browned. Reduce heat.
 . Add chopped tomatoes, a dash of ketchup and Tabasco, season well with enough oregano and basil. Taste with broth and/or salt.
-. Add tomato paste if runny, or along with water to add more volume
-. Finally add leek cut into slices and let it gently boil 15 minutes
+. Add tomato paste if runny, or along with water to add more volume.
+. Finally add leek cut into slices and let it gently boil 15 minutes.
 
 (Béchamel)
 
-. Add butter to a pot, heat strongly until it melts and the water is gone
-. Add the wheat flour and permanently stir with a whisk, never stop!
+. Add butter to a pot, heat strongly until it melts and the water is gone.
+. Add the wheat flour and permanently stir with a whisk, never stop!.
 . If there's not enough butter to bind the flour add some more. Stir!
-. Slowly add the cold milk until the flour sets, continue to add milk and continuously stir to not get it storched
-. once all milk is in and all is set remove heat. The sauce should be pasty but way less than pudding. If it's still too gooey continue to add milk
-. season with salt, pepper and a bit of nutmeg
+. Slowly add the cold milk until the flour sets, continue to add milk and continuously stir to not get it storched.
+. Once all milk is in and all is set remove heat. The sauce should be pasty but way less than pudding. If it's still too gooey continue to add milk.
+. Season with salt, pepper and a bit of nutmeg.
 
 (bring them together)
 
-. Fill a form, start with the Béchamel to cover the ground
-. Lay lasagne noodles with some overlap, to cover all the surface. Cut them to fit if the overlay is too big
-. Continue with Bolognaise and Béchamel until you're out of sauces. The top layer should be Béchamel
-. add the grounded cheese and put it in the pre-heated oven at 170°C in the center.
+. Fill a rectangle form, start with the Béchamel to cover the ground.
+. Lay lasagne noodles with some overlap, to cover all the surface. Cut them with a sharp knife to fit if the overlay is too big.
+. Continue with Bolognaise to cover the noodles, then some Béchamel until you're out of sauces. The top layer should be Béchamel.
+. Add the grounded cheese and put it in the pre-heated oven at 170°C/340F, in the center.
 
 
 image::lasagne_bolognaise/IMG_0831.jpg[Lasagne Bolognaise, 640, 480]
