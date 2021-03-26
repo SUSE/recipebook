@@ -110,17 +110,24 @@ include::recipes/desserts/caramel_apple_pie.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
-endif::[]
-ifndef::env-github[]
-include::recipes/desserts/pink_stuff.adoc[]
-endif::[]
-
-ifdef::env-github[]
 <<recipes/desserts/chocolate_muffins_with_liquid_core.adoc#, Chocolate Muffins With Liquid Core>>
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/peanut_butter_squares.adoc#, Peanut Butter Squares>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/peanut_butter_squares.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/pink_stuff.adoc[]
 endif::[]
 
 ifdef::env-github[]
