@@ -169,10 +169,10 @@ endif::[]
 == Beverages
 
 ifdef::env-github[]
-<<recipes/beverages/chia_fresca.adoc#, Chia Fresca>>
+<<recipes/beverages/chia-fresca.adoc#, Chia Fresca>>
 endif::[]
 ifndef::env-github[]
-include::recipes/beverages/chia_fresca.adoc[]
+include::recipes/beverages/chia-fresca.adoc[]
 endif::[]
 
 
