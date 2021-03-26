@@ -58,6 +58,12 @@ include::recipes/main/lasagne_bolognaise.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/main/dutch_oven_chicken.adoc#, Simple dutch oven chicken breast>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/dutch_oven_chicken.adoc[]
+
+ifdef::env-github[]
 <<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
 endif::[]
 ifndef::env-github[]
