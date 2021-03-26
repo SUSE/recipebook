@@ -166,12 +166,18 @@ include::recipes/desserts/skubanky.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/desserts/mannavaht.adoc#, Mannavaht>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/mannavaht.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/desserts/GrandmaBettyHarveysBrownies.adoc#, Grandma Betty Harvey's Brownies>>
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/GrandmaBettyHarveysBrownies.adoc[]
 endif::[]
-
 
 [id='sec.seasonal']
 == Seasonal
@@ -189,6 +195,10 @@ endif::[]
 [id='sec.beverages']
 == Beverages
 
+The perfect beverage may accompany a meal or stand all on its own.
+Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
+cover the gamut of experiences from refreshing to stimulating.
+
 ifdef::env-github[]
 <<recipes/beverages/chia-fresca.adoc#, Chia Fresca>>
 endif::[]
@@ -196,7 +206,9 @@ ifndef::env-github[]
 include::recipes/beverages/chia-fresca.adoc[]
 endif::[]
 
-
-The perfect beverage may accompany a meal or stand all on its own.
-Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
-cover the gamut of experiences from refreshing to stimulating.
+ifdef::env-github[]
+<<recipes/beverages/tom_jerry.adoc#, Tom and Jerry>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beverages/tom_jerry.adoc[]
+endif::[]

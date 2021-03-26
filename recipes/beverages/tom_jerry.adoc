@@ -1,0 +1,43 @@
+[id='sec.tom_jerry']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Tom & Jerry
+
+Contributed by: Sheilagh Morlan
+
+photos by Citizen dj and Appleblossomfowers
+
+image::tom_jerry/tom_jerry_drink.jpg[Tom & Jerry Drink, 640, 480]
+
+image::tom_jerry/tom_jerry_set.jpg[Tom & Jerry Set, 640, 480]
+
+Growing up I always associated these with the popular Tom and Jerry cartoon I loved as a kid, but this drink goes back to the 1820s and was particularly popular in the cold states of New England and the upper Midwest. It is described as a kissing cousin of eggnog, only hot, or as a 'liquid internal sweater' [1]. The bowl and cups in the picture are identical to the ones many family members had. The cups hold about 6 oz / 180 ml. 
+
+This recipe eclipsed the family recipe as the favorite and comes from O'Gara's Bar at Snelling and Selby in St Paul, Minnesota. Sadly, O'Gara's closed and won't reopen, so we'll have to make these ourselves.
+
+Ingredients:
+
+* 6 eggs - separated
+* 6 teaspoons powdered sugar (18 g)
+* 1 teaspoon allspice (3 g)
+* 3/4 oz brandy and/or 1 1/2 oz rum
+* nutmeg
+* hot water
+
+(you will probably have to adjust measurements for metric amounts)
+
+To start, separate the eggs. Beat the whites until they are stiff, then add the powdered sugar and allspice then beat that in. Beat the egg yolks in a separate bowl until they are thick, then mix together with the stiff egg whites. 
+
+To serve, fill the cup about halfway with batter, add the brandy and/or rum, fill the cup as full as you want it with hot water and top with a sprinkle of nutmeg. 
+
+Alternatively, you can put the brandy/rum and hot water in first and top it off with the batter. Don't forget the nutmeg!
+
+Skol!
+
+[1] Audrey Saunders, owner of Pegu Club in NYC 
