@@ -22,25 +22,25 @@ perfectly with the roulades.
 
 [width="80%",cols="2,2,10",options="header"]
 |=========================================================
-| English | Metric | Ingredient 
+| English | Metric | Ingredient | Zutat
 
-| 4 thin slices (7 oz each) | 4 thin slices (200 g each) | Roulades from beef haunch (ask the butcher to cut them for you) 
-| | | Salt 
-| | | Black pepper 
-| | | Yellow mustard 
-| 4 | 4 | Onions 
-| | | Parsley 
-| 2 | 2 | Eggs 
-| 8-12 thin slices | 8-12 thin slices | Bacon 
-| 9 oz | 250 g | Spinach (frozen) 
-| 3 | 3 | Carrots 
-| 2 | 2 | Gherkins 
-| | | Butter oil / resolidified butter 
-| 2 cups | 500 ml | Water (optional: red wine)
-| | | Beef broth 
-| 1 Tbsp | 1 EL | Flour 
-| 1/2 - 1 cup | 125 ml - 250 ml | Cream 
-| | | Tomato paste 
+| 4 thin slices (7 oz each) | 4 thin slices (200 g each) | Roulades from beef haunch (ask the butcher to cut them for you) | Rinderrouladen aus der Oberschale
+| | | Salt | Salz
+| | | Black pepper (freshly ground) | Schwarzer Pfeffer (frisch gemahlen)
+| | | Yellow mustard | Mittelscharfer Senf
+| 4 | 4 | Onions | Zwiebeln
+| | | Parsley | Petersilie
+| 2 | 2 | Eggs | Eier
+| 8-12 thin slices | 8-12 thin slices | Bacon | Schinkenspeck
+| 9 oz | 250 g | Spinach (frozen) | Spinat (gefroren)
+| 3 | 3 | Carrots | Karotten
+| 2 | 2 | Gherkins | Gewürzgurken
+| | | Butter oil / resolidified butter | Butterschmalz
+| 2 cups | 500 ml | Water (optional: red wine) | Wasser (optional: Rotwein)
+| | | Beef broth | Rinderbrühe
+| 1 Tbsp | 1 EL | Flour | Mehl
+| 1/2 - 1 cup | 125 ml - 250 ml | Cream | Sahne
+| | | Tomato paste | Tomatenmark
 |=========================================================
 
 ==== Preparing the Roulades
@@ -99,13 +99,13 @@ until the dumplings are ready.
 |=========================================================
 | English | Metric | Ingredient
 
-| 6-8 | 6-8 | (Lye) Pretzels or buns (old ones)
-| | | Salt 
-| 13 fl oz | 375 ml | Milk (lukewarm) 
-| 3-4 | 3-4 | Eggs 
-| 1-2 | 1-2 | Onions 
-| | | Parsley (chopped)
-| | | Oil (for braising) 
+| 6-8 | 6-8 | (Lye) Pretzels or buns (old ones) | Laugenbrezen oder Brötchen (alt)
+| | | Salt | Salz
+| 13 fl oz | 375 ml | Milk (lukewarm) | Milch (lauwarm)
+| 3-4 | 3-4 | Eggs | Eier
+| 1-2 | 1-2 | Onions | Zwiebeln
+| | | Parsley (chopped) | Petersilie (gehackt)
+| | | Oil (for braising) | Öl (zum Anbraten)
 |=========================================================
 
 ==== Preparating the Dumplings
