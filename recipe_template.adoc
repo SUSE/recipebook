@@ -1,0 +1,62 @@
+//copy this to the destination folder and desired name
+
+[id='sec.name_your_dish']
+
+//give it a unique id ^^ to be included in recipes.adoc
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+//leave this ^^ untouched
+
+=== Name of the Dish
+//heading ^^
+
+image::path_to_dish_pictures/filename0[Name, 640, 480]
+
+Contributed by: Your Name
+image:contributors/your_avatar[Name, 140, 140]
+//only if you like ^^
+
+Introduction to your dish.
+//tell some background about it, why you like it, how it tastes ...
+
+Ingredients:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US    | Ingredient         | Zutat
+
+|       |       |                    |  
+|       |       |                    |  
+|       |       |                    |  
+|       |       |                    |  
+|       |       |                    |  
+|=========================================================
+//your sources ^^
+
+//Great if you can provide both metric and US measures, as well as the
+//ingredient name in your local language, if other than English.
+//Replace "Zutat" with "ingrédient", "ingrediente", "састојак" or whatever
+//applies to you.
+
+Preparation:
+
+. Step 1
+. Step 2
+. Step 3
+. Step 4
+
+//your Makefile ^^
+
+image::name_your_dish/filename1[Name, 640, 480]
+image::name_your_dish/filename2[Name, 640, 480]
+image::name_your_dish/filename3[Name, 640, 480]
+
+//fill in pictures as wanted, note the size settings if ratio is different
+
+//don't forget to finally edit recipes.adoc to add to the table of contents
+//and remove these comments

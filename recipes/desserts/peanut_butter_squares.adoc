@@ -1,0 +1,43 @@
+[id='sec.peanut_butter_squares']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Peanut Butter Squares
+
+Contributed by: Mike Latimer
+image:contributors/mike_l.png[Mike L]
+
+Classic peanut butter and chocolate squares. Easy to make,
+and super delicious!
+
+==== Ingredients:
+
+* 1/2c (120ml) softened butter
+* 1/2c (120ml) sugar
+* 1/2c (120ml) brown sugar (firmly packed)
+* 1 egg
+* 1/3c (80ml) American peanut butter (Creamy Skippy or Jif)
+* 1tsp (5ml) vanilla
+* 1/2tsp (2.5ml) baking soda
+* 1/4tsp (1.25ml) salt
+* 1c (120ml) flour
+* 1c (120ml) oats
+* 11.5oz (325g) milk chocolate chips (Nestle)
+
+==== Preparation:
+
+. Using a mixer, cream butter, sugar and brown suger.
+. Mix in egg, peanut butter, vanilla, baking soda, and salt.
+. Add flour and oats, and mix well.
+. Spread mixture evenly into a 9x13in (23x33cm) pan.
+. Bake at 350F (175C) for 20-25 mins, or until golden brown. (Don't over cook.)
+. While still hot, spread milk chocolate chips on squares. After a few minutes,
+the chocolate chips will start to melt. Use a spoon to evenly spread the melted
+chocolate across the top of the squares.
+. Enjoy!

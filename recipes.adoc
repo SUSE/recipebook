@@ -57,18 +57,32 @@ ifndef::env-github[]
 include::recipes/main/lasagne_bolognaise.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/main/dutch_oven_chicken.adoc#, Simple dutch oven chicken breast>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/dutch_oven_chicken.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/honey_walnut_shrimp.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/schaeufele.adoc#, Frankonian Schaeufele>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/schaeufele.adoc[]
+endif::[]
+
 [id='sec.sides']
 == Side Dishes
 
 Side dishes complete a meal, providing a compliment to the entree like
 the bass line in a song... essential components for a full experience.
-
-ifdef::env-github[]
-<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
-endif::[]
-ifndef::env-github[]
-include::recipes/sides/raspberry_pretzel_salad.adoc[]
-endif::[]
 
 ifdef::env-github[]
 <<recipes/sides/vals_mac_cheese.adoc#, Val's Macaroni & Cheese>>
@@ -77,6 +91,24 @@ ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
+endif::[]
+ifndef::env-github[]
+include::recipes/sides/raspberry_pretzel_salad.adoc[]
+endif::[]
+
+[id='sec.soups']
+== Soups
+
+Soup is an all-in-one semi-liquid food. It is a simple and fast way to fill your stomach.
+
+ifdef::env-github[]
+<<recipes/soups/potato-soup.adoc#, Potato Soup>>
+endif::[]
+ifndef::env-github[]
+include::recipes/soups/potato-soup.adoc[]
+endif::[]
 
 [id='sec.desserts']
 == Desserts
@@ -92,10 +124,10 @@ include::recipes/desserts/caramel_apple_pie.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
+<<recipes/desserts/crazy_cake.adoc#, Crazy Cake>>
 endif::[]
 ifndef::env-github[]
-include::recipes/desserts/pink_stuff.adoc[]
+include::recipes/desserts/crazy_cake.adoc[]
 endif::[]
 
 ifdef::env-github[]
@@ -106,12 +138,32 @@ include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/desserts/new_years_pretzel.adoc#, New Year's Pretzel>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/new_years_pretzel.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/peanut_butter_squares.adoc#, Peanut Butter Squares>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/peanut_butter_squares.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/pink_stuff.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/desserts/skubanky.adoc#, Škubánky>>
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/skubanky.adoc[]
 endif::[]
-
 
 [id='sec.beverages']
 == Beverages
