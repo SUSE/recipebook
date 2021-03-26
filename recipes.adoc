@@ -58,10 +58,24 @@ include::recipes/main/lasagne_bolognaise.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/main/dutch_oven_chicken.adoc#, Simple dutch oven chicken breast>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/dutch_oven_chicken.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
 endif::[]
 ifndef::env-github[]
 include::recipes/main/honey_walnut_shrimp.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/schaeufele.adoc#, Frankonian Schaeufele>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/schaeufele.adoc[]
 endif::[]
 
 [id='sec.sides']
@@ -71,17 +85,17 @@ Side dishes complete a meal, providing a compliment to the entree like
 the bass line in a song... essential components for a full experience.
 
 ifdef::env-github[]
-<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
-endif::[]
-ifndef::env-github[]
-include::recipes/sides/raspberry_pretzel_salad.adoc[]
-endif::[]
-
-ifdef::env-github[]
 <<recipes/sides/vals_mac_cheese.adoc#, Val's Macaroni & Cheese>>
 endif::[]
 ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/sides/raspberry_pretzel_salad.adoc#, Raspberry Pretzel Salad>>
+endif::[]
+ifndef::env-github[]
+include::recipes/sides/raspberry_pretzel_salad.adoc[]
 endif::[]
 
 [id='sec.soups']
@@ -110,10 +124,24 @@ include::recipes/desserts/caramel_apple_pie.adoc[]
 endif::[]
 
 ifdef::env-github[]
+<<recipes/desserts/crazy_cake.adoc#, Crazy Cake>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/crazy_cake.adoc[]
+endif::[]
+
+ifdef::env-github[]
 <<recipes/desserts/chocolate_muffins_with_liquid_core.adoc#, Chocolate Muffins With Liquid Core>>
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/new_years_pretzel.adoc#, New Year's Pretzel>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/new_years_pretzel.adoc[]
 endif::[]
 
 ifdef::env-github[]
@@ -135,13 +163,6 @@ ifdef::env-github[]
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/skubanky.adoc[]
-endif::[]
-
-ifdef::env-github[]
-<<recipes/desserts/crazy_cake.adoc#, Crazy Cake>>
-endif::[]
-ifndef::env-github[]
-include::recipes/desserts/crazy_cake.adoc[]
 endif::[]
 
 [id='sec.seasonal']

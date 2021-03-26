@@ -1,0 +1,80 @@
+[id='sec.new_years_pretzel']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== New Year's Pretzel
+
+This pretzel is a traditional bread baked for New Year's in 
+Pittsburgh, PA. Immigrants from many European countries migrated 
+to Pittsburgh in the early 1900's. It is believed this tradition 
+started as a result of the diverse cultural communities living 
+in Pittsburgh.
+
+image::new_years_pretzel/enjoy.jpg[New Years Pretzel, 640, 480]
+
+Contributed by: Keith 
+image:contributors/KeithBerger.jpg[Keith B, 140, 140]
+
+Ingredients:
+
+Dough
+
+* 3 ½ cups (490 g) all-purpose flour
+* ¼ cup (48 g) sugar
+* 1 envelope (7.5 g) Baker's Yeast
+* 1 teaspoon (3 g) salt
+* ¾ cup (180 ml) evaporated milk
+* ¼ cup (50 g) butter or margarine
+* ¼ cup (60 ml) water
+* 2 large eggs
+
+In large bowl, combine 1-1/2 cups (140-210 g) flour, sugar, undissolved yeast, and salt. Heat milk, butter, and water until very warm, 120-130°F (49-53°C). Gradually add to flour mixture; beat 2 minutes at medium speed of electric mixer, scraping bowl occasionally. Add eggs and 1/2 cup (70 g) flour; beat 2 minutes at high speed, scraping bowl occasionally. With spoon, stir in enough remaining flour to make stiff batter. Cover tightly with plastic wrap; refrigerate 2 to 24 hours.
+
+
+Filling
+
+* 2 Tablespoons (18 g) each Cinnamon and Sugar mixed
+* 1 Cup (150 g) Chopped Nuts (Walnuts or Pecan are preferred)
+* 1 Cup (150 g) Chopped Maraschino Type Cherries
+* 1 Cup (150 g) Semi Sweet/Dark Mini Chocolate Chips or small chopped pieces.
+* 1/3 Cup (67 g)  Melted Butter
+* Chocolate Syrup
+* Nutella or other Hazelnut Spread
+
+
+Remove dough from refrigerator. Punch dough down. Remove to lightly floured surface. Roll to 21 x 12-inch rectangle. Spread with melted butter. Sprinkle generously with cinnamon and sugar mixture. Gently Spread Nutella and/or Chocolate Syrup using a flat spatula. Top with nuts, cherries and chocolate to to within 1/2 inch of edges. Roll up into a long snake like shape.
+
+image::new_years_pretzel/rollout_dough.jpg[New Years Pretzel, 640, 480]
+image::new_years_pretzel/rollup_dough.jpg[New Years Pretzel, 640, 480]
+
+Shape into a pretzel and spread the top with melted butter and sprinkle with cinnamon and sugar mixture.
+
+image::new_years_pretzel/shaped.jpg[New Years Pretzel, 640, 480]
+
+Place on a baking sheet that is lined with parchment paper or greased.Cover; let rise in warm, draft-free place until almost doubled in size, about 30 to 45 minutes.
+
+Bake at 350°F (120°C) until the top is golden brown and the pretzel sounds hollow when tapped. The baking time can vary based on how much filling you use. It will typically be between 20 and 30 minutes. I typically start checking at 20 minutes and then in 5 minute intervals.
+
+image::new_years_pretzel/before_glaze.jpg[New Years Pretzel, 640, 480]
+
+
+Glaze
+
+
+* 1 cup (140g) powdered sugar, sifted
+* 4-5 teaspoons (20-25 ml) evaporated milk, or as needed
+* ½ teaspoon (2 ml) Vanilla Extract
+
+In bowl, combine powdered sugar, 4 to 5 (20-25 ml) teaspoons evaporated milk, and 1/2 (2ml) Vanilla Extract. Stir until smooth. You may need to add more liquid or sugar to get the correct drizzling consistency.  
+
+After the pretzel has cooled, drizzle the glaze on top of the pretzel
+
+image::new_years_pretzel/top_with_glaze.jpg[New Years Pretzel, 640, 480]
+
+
+
