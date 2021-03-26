@@ -22,13 +22,13 @@ Ingredients:
 
 [width="100%",cols="3,3,10,10",options="header"]
 |=========================================================
-|Metric | US    | Ingredient         | Zutat
+|Metric | US    | Ingredient         | Ingredientes
 
-| 500ml | 2 cups| water              | Wasser
-| 15ml  | 1 tbsp| chia seeds         |
-| 15ml  | 1 tbsp| lemon/lime juice   | Zitronensaft/Limettensaft
-| 5ml   | 1 tsp | honey              | Honig
-|       | pinch | salt               | Salz 
+| 500ml | 2 cups| water              | agua
+| 15ml  | 1 tbsp| chia seeds         | semillas de chia
+| 15ml  | 1 tbsp| lemon/lime juice   | jugo de limon/lima
+| 5ml   | 1 tsp | honey              | carino
+|       | pinch | salt               | sal
 |=========================================================
 
 Preparation:
