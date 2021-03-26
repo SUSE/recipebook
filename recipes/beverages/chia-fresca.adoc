@@ -1,0 +1,44 @@
+[id='sec.chia_fresca']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Chia Fresca
+
+Contributed by: Sean
+
+A refreshing and healthy beverage popular in Mexico. Chia seeds
+are a popular food source in the region and were a main component
+of Aztec, Tarahumara and Mayan diets.
+
+28g/ml of chia seeds contain 137 calories, 11g fiber, 4g protein and
+5g of omega-3 fatty acids (mainly α-linolenic acid).
+
+Ingredients:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US    | Ingredient         | Zutat
+
+| 500ml | 2 cups| water              | Wasser
+| 15ml  | 1 tbsp| chia seeds         |
+| 15ml  | 1 tbsp| lemon/lime juice   | Zitronensaft/Limettensaft
+| 5ml   | 1 tsp | honey              | Honig
+|       | pinch | salt               | Salz 
+|=========================================================
+
+Preparation:
+
+. In a large glass combine the ingredients.
+. Stir well and set aside for 10-15 minutes.
+. Once the chia seeds are fully hydrated stir again.
+. Optionally the drink can be chilled.
+. Optionally you can blend the drink for a smoothy texture.
+. Optionally serve with a lemon/lime wedge and or sprig of mint.
+. Enjoy!
+
+Any other fruit and/or citrus can be substituted as desired.

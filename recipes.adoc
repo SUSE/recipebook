@@ -168,6 +168,14 @@ endif::[]
 [id='sec.beverages']
 == Beverages
 
+ifdef::env-github[]
+<<recipes/beverages/chia_fresca.adoc#, Chia Fresca>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beverages/chia_fresca.adoc[]
+endif::[]
+
+
 The perfect beverage may accompany a meal or stand all on its own.
 Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
 cover the gamut of experiences from refreshing to stimulating.
