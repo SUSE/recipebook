@@ -20,9 +20,9 @@ perfectly with the roulades.
 
 ==== Ingredients for the Roulades
 
-[width="80%",cols="2,2,10",options="header"]
+[width="100%",cols="3,3,10,10",options="header"]
 |=========================================================
-| English | Metric | Ingredient | Zutat
+| US | Metric | Ingredient | Zutat
 
 | 4 thin slices (7 oz each) | 4 thin slices (200 g each) | Roulades from beef haunch (ask the butcher to cut them for you) | Rinderrouladen aus der Oberschale
 | | | Salt | Salz
