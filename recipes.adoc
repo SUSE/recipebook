@@ -10,9 +10,9 @@ Welcome to the Innovate Everywhere Recipe Book!
 
 Open Source contributors from around the globe have contributed recipes
 to share some of the tastiest creations around. Within these virtual
-pages find main (main course, for those outside the US), sides,
-desserts, and drinks that will tantalize the tastebuds and impress your
-friends! Innovation doesn't stop at dinner time, its time to bring open
+pages find main dishes (entrees for those in the US), sides, desserts,
+and drinks that will tantalize the taste buds and impress your friends!
+Innovation doesn't stop at dinner time, its time to bring open
 source to your kitchen!
 Have a lot of fun!
 
@@ -62,6 +62,19 @@ ifdef::env-github[]
 endif::[]
 ifndef::env-github[]
 include::recipes/main/dutch_oven_chicken.adoc[]
+
+ifdef::env-github[]
+<<recipes/main/honey_walnut_shrimp.adoc#, Honey Walnut Shrimp (Hong Kong Style)>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/honey_walnut_shrimp.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/main/schaeufele.adoc#, Frankonian Schaeufele>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/schaeufele.adoc[]
 endif::[]
 
 [id='sec.sides']
@@ -84,11 +97,22 @@ ifndef::env-github[]
 include::recipes/sides/vals_mac_cheese.adoc[]
 endif::[]
 
+[id='sec.soups']
+== Soups
+
+Soup is an all-in-one semi-liquid food. It is a simple and fast way to fill your stomach.
+
+ifdef::env-github[]
+<<recipes/soups/potato-soup.adoc#, Potato Soup>>
+endif::[]
+ifndef::env-github[]
+include::recipes/soups/potato-soup.adoc[]
+endif::[]
 
 [id='sec.desserts']
 == Desserts
 
-Desserts bring a fanciful finsh to a proper meal, like the sunset after a
+Desserts bring a fanciful finish to a proper meal, like the sunset after a
 great day, dessert reminds us of the joy we experienced during our meal.
 
 ifdef::env-github[]
@@ -99,17 +123,24 @@ include::recipes/desserts/caramel_apple_pie.adoc[]
 endif::[]
 
 ifdef::env-github[]
-<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
-endif::[]
-ifndef::env-github[]
-include::recipes/desserts/pink_stuff.adoc[]
-endif::[]
-
-ifdef::env-github[]
 <<recipes/desserts/chocolate_muffins_with_liquid_core.adoc#, Chocolate Muffins With Liquid Core>>
 endif::[]
 ifndef::env-github[]
 include::recipes/desserts/chocolate_muffins_with_liquid_core.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/peanut_butter_squares.adoc#, Peanut Butter Squares>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/peanut_butter_squares.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/desserts/pink_stuff.adoc#, Pink Stuff>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/pink_stuff.adoc[]
 endif::[]
 
 ifdef::env-github[]
@@ -119,6 +150,12 @@ ifndef::env-github[]
 include::recipes/desserts/skubanky.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/desserts/crazy_cake.adoc#, Crazy Cake>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/crazy_cake.adoc[]
+endif::[]
 
 [id='sec.beverages']
 == Beverages
