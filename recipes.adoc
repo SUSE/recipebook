@@ -165,6 +165,19 @@ ifndef::env-github[]
 include::recipes/desserts/skubanky.adoc[]
 endif::[]
 
+[id='sec.seasonal']
+== Seasonal
+
+There's a lot of seasonal cooking and baking for instance for Christmas or
+Easter.
+
+ifdef::env-github[]
+<<recipes/seasonal/elisen_lebkuchen.adoc#, Elisen Lebkuchen>>
+endif::[]
+ifndef::env-github[]
+include::recipes/seasonal/elisen_lebkuchen.adoc[]
+endif::[]
+
 [id='sec.beverages']
 == Beverages
 
