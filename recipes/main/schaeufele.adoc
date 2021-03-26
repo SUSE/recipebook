@@ -1,0 +1,88 @@
+[id='sec.schaeufele']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Frankonian Schaeufele
+
+Contributed by: Alex 
+image:contributors/alex_o.jpg[Alex O]
+
+Schaeufele is a very typical Frankonian dish which in my opinion every meat
+lover should have enjoyed at least once in life. The name schaeufele refers to
+the pan of a shovel and comes from the shape of the bone (pork shoulder).
+
+==== Ingredients
+
+[width="80%",cols="2,2,10",options="header"]
+|=========================================================
+| English | Metric | Ingredient 
+
+| 3-4 lb | 1,5-2 kg | Pork shoulder with bone and rind
+| | | Salt 
+| | | Black pepper (freshly grounded)
+| | | Caraway (grounded)
+| | | Butter oil / resolidified butter 
+| 2-3 | 2-3 | Onions 
+| 1 | 1 | Leek 
+| 2-3 | 2-3 | Carrots 
+| 1/2 | 1/2 | Celery root
+| 2 | 2 | Garlic cloves
+| | | Parsley (twigs)
+| 4 cups | 1 l | Broth
+| 7 fl oz | 200 ml | Beer (e.g. lager, brown ale, not hoppy)
+|=========================================================
+
+==== Preparation
+
+1. Cut the rind diagonally (the smaller the pieces the crunchier, watch out to
+not cut into the meat below) or let the butcher do it.
+
+2. Wash the meat and pat it dry. Thoroughly rub it with salt, pepper and
+caraway. Do not put caraway on the rind (else it'll get chewy).
+
+3. Preheat the oven to 160°C / 320°F (top/bottom heat).
+
+4. Melt the resolidified butter in a roasting tray and sear the schaeufeles
+from all sides. Again, spare the rind. 
+
+5. Quarter the onions, half the garlic cloves, chop the carrots, leek, and
+celery into coarse pieces and add them. Also add the parsley twigs. Make sure
+the rind is up.
+
+6. Pour the broth into the roasting tray so that all vegetables are covered
+(but the rind is not). Close the lid of the roasting tray and put the roast on
+the lower rack of the oven for 4 hours. During the last 30 minutes gently
+pour the beer over the rind about every 10 minutes.
+
+7. Remove the lid, switch to circulating air and increase the temperature to
+everything it got - 250°C/480°F to get a crispy crust. Watch it all the time
+as the rind pieces will pop quite quickly and you don't want to burn it now!
+
+8. When you're satisfied with the crackling take the roasting tray out of the
+oven, switch off the oven, and leave the oven door open for a moment. Put the
+schaeufles on a plate and let them rest in the still warm oven. 
+
+9. Puree (some of) the vegetables in the gravy. You could also eat some or all
+of the vegetables as starter (my wife and daughter love them). The amount of
+pureed vegetables influences the thickness (and also the taste) of the sauce.
+In any case, sieve the sauce into a pot and possibly salt and pepper to taste.
+Briefly boil up the sauce.
+
+10. Serve the schaeufele with sauce but pay attention to not pour sauce over
+the crackling.
+
+===== Side dishes: 
+Potato dumplings, sauerkraut, savoy cabbage and/or mixed salad. A good dark
+beer completes this delicious dish!
+
+
+Bon appetit!
+
+image::schaeufele/schaeufele.jpg[Enjoy!, 640, 480]
+
