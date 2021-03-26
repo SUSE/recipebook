@@ -22,13 +22,18 @@ halving this recipe, as it makes a lot!
 
 For the Mac you'll need:
 
-* 16oz (450g) box of macaroni noodles
-* 2 eggs lightly beaten
-* 4c (960ml) cottage cheese
-* 16oz (450g) plain yogurt
-* 1/4tsp (1.25ml) salt
-* 1/2tsp (2.5ml) pepper
-* 4c (960ml) shredded Velveeta
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric  | US     | Ingredient              | Zutat
+
+| 450g   | 16oz   | box of macaroni noodles |
+| 2      | 2      | eggs lightly beaten     |
+| 960ml  | 4c     | cottage cheese          |
+| 450g   | 16oz   | plain yogurt            |
+| 1.25ml | 1/4tsp | salt                    |
+| 2.5ml  | 1/2tsp | pepper                  |
+| 960ml  | 4c     | shredded Velveeta       |
+|=========================================================
 
 Preparation:
 
@@ -42,8 +47,13 @@ Preparation:
 
 For the topping you'll need:
 
-* 1/2c (120ml) breadcrumbs
-* 1.5tbsp (22ml) butter
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US      | Ingredient  | Zutat
+
+| 120ml | 1/2c    | breadcrumbs |
+| 22ml  | 1.5tbsp | butter      |
+|=========================================================
 
 Preparation:
 
