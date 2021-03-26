@@ -181,6 +181,10 @@ endif::[]
 [id='sec.beverages']
 == Beverages
 
+The perfect beverage may accompany a meal or stand all on its own.
+Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
+cover the gamut of experiences from refreshing to stimulating.
+
 ifdef::env-github[]
 <<recipes/beverages/chia-fresca.adoc#, Chia Fresca>>
 endif::[]
@@ -188,7 +192,9 @@ ifndef::env-github[]
 include::recipes/beverages/chia-fresca.adoc[]
 endif::[]
 
-
-The perfect beverage may accompany a meal or stand all on its own.
-Perhaps a bit bubbly, or maybe a sweet fruit smoothie, beverages
-cover the gamut of experiences from refreshing to stimulating.
+ifdef::env-github[]
+<<recipes/beverages/tom_jerry.adoc#, Tom and Jerry>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beverages/tom_jerry.adoc[]
+endif::[]
