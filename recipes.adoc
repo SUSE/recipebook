@@ -130,6 +130,12 @@ ifndef::env-github[]
 include::recipes/desserts/skubanky.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/desserts/crazy_cake.adoc#, Crazy Cake>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/crazy_cake.adoc[]
+endif::[]
 
 [id='sec.beverages']
 == Beverages
