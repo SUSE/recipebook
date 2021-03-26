@@ -1,0 +1,54 @@
+[id='sec.elisen_lebkuchen']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Alex' Elisen Lebkuchen
+
+Contributed by: Alex 
+image:contributors/alex_o.jpg[Alex O]
+
+Nuremberg is very famous for its Elisen Lebkuchen and many tourists from all
+over the world come to visit the city during Christmas time and see the
+"Christkindlesmarkt" and taste some of those specialties. A very important
+rule for those Elisen Lebkuchen is that they must not contain flour. This is
+my version of Nuremberg's specialty.
+
+Ingredients:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+| US     | Metric | Ingredient              | Zutat
+
+| 6      | 6      | Eggs                    | Eier
+| 6 oz   | 180 g  | Sugar (brown)           | Zucker (braun)
+| 2 Tbsp | 2 EL   | Honey                   | Honig
+| 2 tsp  | 2 TL   | Cinnamon                | Zimt
+| 2 tsp  | 2 TL   | Gingerbread spice       | Lebkuchengewürz
+| 1 pch  | 1 Prise| Salt                    | Salz
+| 7 oz   | 200 g  | Almonds (ground)        | Mandeln (gemahlen)
+| 3.5 oz | 100 g  | Almonds (chopped)       | Mandeln (gehackt)
+| 7 oz   | 200 g  | Hazelnuts (ground)      | Haselnüsse (gemahlen)
+| 7 oz   | 200 g  | Candied orange peel     | Orangeat (finely chopped)
+| 7 oz   | 200 g  | Cendied lemon peel      | Zitronat (finely chopped)
+| 30/40  | 30/40  | Round wavers (3" or 4") | Oblaten (70 mm oder 90 mm)
+| 10.5 oz| 300 g  | Chocolate coating       | Kuvertüre
+|=========================================================
+
+==== Preparation:
+
+1. Beat eggs, sugar, and honey until fluffy. Mix in the remaining ingredients.
+
+2. Spread the dough flat onto the wavers. Results in about 30 pieces (4" / 90
+mm) or 40 pieces (3" / 70 mm).  Put them on a baking tray with baking paper.
+
+3. Bake at 150°C / 300°F (upper and lower heat) for about 20 - 30 minutes.
+Bake shorter for softer/smaller lebkuchen.
+
+4. Put the lebkuchen on a grid to cool down and avoid soaked through wavers.
+
+image::elisen_lebkuchen/elisen_lebkuchen.jpg[Enjoy!, 640, 480]
