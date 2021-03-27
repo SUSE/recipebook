@@ -80,8 +80,12 @@ Preparation:
 
 //your Makefile ^^
 
-//image::grandmabettysbrownies/GrandmaBettyHarveysBrownies.png[Grandma Betty Harveys Brownies, 640, 480]
+image::grandmabettysbrownies/GrandmaBettyHarveysBrowniesInTheOven.png[Grandma Betty Harveys Brownies in the oven, 640, 480]
+
+In the oven ... 
+
 image::grandmabettysbrownies/GrandmaBettyHarveysBrownies.jpg[Grandma Betty Harveys Brownies, 640, 480]
+
 Right out of the oven. 
 
 //fill in pictures as wanted, note the size settings if ratio is different
