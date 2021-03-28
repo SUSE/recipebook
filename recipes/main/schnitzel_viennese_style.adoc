@@ -1,0 +1,48 @@
+[id='sec.schnitzel_viennese_style']
+
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Schnitzel Viennese Style
+
+image::schnitzel_viennese_style/schnitzel.jpg[Name, 640, 480]
+
+Contributed by: Robert
+image:contributors/robert_s.png[Name, 140, 140]
+
+Schnitzel is very common in Germany, the original however is from Austria. Authentic Schnitzel Viennese ("Wiener Schnitzel") has to be made from veal, the more popular variation made from pork (rarely turkey) is called Viennese Style ("Wiener Art"). Making is very much the same and since it's crumbed, there's usually no sauce with it.
+
+Ingredients (4 servings):
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US    | Ingredient         | Zutat
+
+| 4     |       | pork escalopes     | Schweineschnitzel
+|       |       | starch flour       | Stärkemehl 
+| 2     |       | eggs               | Eier 
+|       |       | breadcrumbs        | Semmelbrösel
+|       |       | salt               | Salz
+|       |       | pepper             | Pfeffer 
+|       |       | resolidified butter| Butterschmalz
+| 1     |       | lemon              | Zitrone
+|=========================================================
+
+Preparation:
+
+. Dry the schnitzels with a paper towel, put them on a wooden cutting board and pound them out with a meat tenderizer, as thin as you like them. Or as big as your pan is.
+. Prepare three plates or bowls, first with with starch flour, for the second scramble the eggs and add a good amount of salt and pepper, the third gets the breadcrumbs.
+. Pull the schnitzels first through the starch so they are covered and the egg will stick better.
+. Pull the schnitzels through the eggs, they must be fully covered, no dry spots.
+. Pull the schnitzels through the breadcrumbs and press on, cover them completely. 
+. Heat a big enough pan with plenty resolidified butter, fry the schnitzels at medium heat (not too hot) a few minutes until they are well done and nicely browned, turn them and repeat.
+
+Keep them warm in the oven for not too long and serve the schnitzels with lemon sliced or quartered so everyone can sour them at own taste.
+
+Schnitzel goes well with potato salad (mayonnaise, or franconian style with vinegar and oil) or as children love it with french fries. Also popular to take along (cold), put them on a french baguette as a hoagie, along with cucumber, tomatoes, fried onions and ketchup/mayonnaise.
+
