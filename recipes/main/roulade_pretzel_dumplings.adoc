@@ -95,9 +95,9 @@ until the dumplings are ready.
 
 ==== Ingredients for the Pretzel Dumplings
 
-[width="80%",cols="2,2,10",options="header"]
+[width="100%",cols="3,3,10,10",options="header"]
 |=========================================================
-| English | Metric | Ingredient
+| US | Metric | Ingredient | Zutat
 
 | 6-8 | 6-8 | (Lye) Pretzels or buns (old ones) | Laugenbrezen oder Brötchen (alt)
 | | | Salt | Salz
