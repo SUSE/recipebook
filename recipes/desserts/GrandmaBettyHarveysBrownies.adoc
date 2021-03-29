@@ -1,0 +1,92 @@
+//copy this to the destination folder and desired name
+
+[id='sec.Grandma Betty Harvey's Brownies']
+
+//give it a unique id ^^ to be included in recipes.adoc
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+//leave this ^^ untouched
+
+=== Grandma Betty Harvey's Brownies
+//heading ^^
+
+image::grandmabettysbrownies/dister-waiter.png[140,140]
+
+Contributed by: Mark Harvey
+//image:contributors/dister-waiter.png[140,140]
+//only if you like ^^
+
+A family recipe for brownies that don't dry out & get rock like.  
+
+Excellent with simple vanilla ice cream or whipped cream.
+//tell some background about it, why you like it, how it tastes ...
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US        | Ingredient         | 
+
+|       | 1/2 stick | butter, room temperature |
+|       | 1 cup     | white sugar |
+|       | 2         | eggs |
+|       | 1/2 cup   | all purpose flour |
+|       | 1/2 cup   | chopped pecans or walnuts |
+|       | 1/2 cup + 1 tablespoon | cocoa powder |
+|       | 3 tablespoons | canola oil |
+|       | 1 teaspoon    | vanilla |
+|=========================================================
+//your sources ^^
+
+//Great if you can provide both metric and US measures, as well as the
+//ingredient name in your local language, if other than English.
+//Replace "Zutat" with "ingrédient", "ingrediente", "састојак" or whatever
+//applies to you.
+
+Preparation:
+
+. Grease a 9 inch x 9 inch pan; glass or metal; with shortening ( Crisco ) 
+
+. Blend sugar into butter
+* 1 cup white sugar 
+* 1/2 cup (1/2 stick) of butter 
+
+. Add in 2 eggs & stir
+
+. Add in remaining ingredients
+* 1/2 cup all purpose flour
+* 1/2 cup chopped pecans or walnuts ; can be put aside to sprinkle on top
+* 1/2 cup + 1 tablespoon of cocoa powder
+* 3 tablespoons of canola oil 
+* 1 teaspoon of vanilla
+
+. Blend with a whisk to a smooth consistency. 
+
+. Pour into the in 9 inch x 9 inch pan.
+ 
+. Bake 25 minutes @ 350 F
+* Test when done by inserting a tooth pick; should come out dry when done
+
+. Pull from oven; let cool; while warm, cut into squares.
+
+. Serving suggestions
+* One square in a cereal bowl
+* Optionally, gently microwave to warm up
+* Top with equal portion of simple, good quality vanilla ice cream ; we like Blue Bell Homemade Vanilla
+* If you like the concept of Oreo crumbles in vanilla ice cream, this is over the top. 
+
+//your Makefile ^^
+
+.In the oven ... 
+image::grandmabettysbrownies/GrandmaBettyHarveysBrowniesInTheOven.png[Grandma Betty Harveys Brownies in the oven, 640, 480]
+
+.Right out of the oven. 
+image::grandmabettysbrownies/GrandmaBettyHarveysBrownies.jpg[Grandma Betty Harveys Brownies, 640, 480]
+
+
+
+//fill in pictures as wanted, note the size settings if ratio is different
+

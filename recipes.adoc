@@ -186,6 +186,13 @@ ifndef::env-github[]
 include::recipes/desserts/mannavaht.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/desserts/GrandmaBettyHarveysBrownies.adoc#, Grandma Betty Harvey's Brownies>>
+endif::[]
+ifndef::env-github[]
+include::recipes/desserts/GrandmaBettyHarveysBrownies.adoc[]
+endif::[]
+
 [id='sec.seasonal']
 == Seasonal
 
