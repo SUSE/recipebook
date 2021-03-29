@@ -199,6 +199,14 @@ ifndef::env-github[]
 include::recipes/seasonal/elisen_lebkuchen.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/seasonal/easter_bread.adoc#, Easter Bread>>
+endif::[]
+ifndef::env-github[]
+include::recipes/seasonal/easter_bread.adoc[]
+endif::[]
+
+
 [id='sec.beverages']
 == Beverages
 
