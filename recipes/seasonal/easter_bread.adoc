@@ -1,0 +1,59 @@
+[id='sec.easter_bread']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Easter Bread
+
+image::easter_bread/easter_bread.jpg[Name, 640, 480]
+
+Contributed by: Robert
+image:contributors/robert_s.png[Name, 140, 140]
+
+Easter Bread (originally "Osterbrot" or "Osterfladen") is very popular in Germany/Bavaria. Traditionally only eaten after the fasting ends, nowadays you'll also get it before Easter Sunday. Have a thick slice along with coffee or tea, pure or with butter on top or even jam, if you like. It's best fresh, when it just cooled down after baking but if you wrap it well then it's still good after 2-3 days.
+
+Ingredients:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US     | Ingredient             | Zutat
+
+|50g    | 7tbsp  | Candied Lemon Peel     | Zitronat 
+|50g    | 7tbsp  | Candied Orange Peel    | Orangeat
+|50g    | 6tbsp  | Almonds, chopped       | Mandeln, gehackt 
+|100g   | 1/2cup | Milk                   | Milch 
+|100g   | 1/2cup | Cream                  | Sahne 
+|50g    | 1/4cup | Butter                 | Butter 
+|90g    | 6tbsp  | Sugar                  | Zucker 
+|3      |        | Eggs                   | Eier 
+|42g    |        | Yeast                  | Hefewürfel 
+|1 TL   | 1tsp   | Salt                   | Salz 
+|600g   | 5cups  | Wheat Flour            | Weizenmehl
+|80g    | 2/3cups| Raisins                | Rosinen 
+|       |        | Almonds, finely sliced | Mandeln, gehobelt 
+|       |        | White Sugar Crystals   | Weißer Hagelzucker
+|=========================================================
+
+image::easter_bread/easter_bread_ingredients.jpg[Name, 640, 480]
+
+Preparation:
+
+. Put one egg aside. Chop the lemon and orange peel if you prefer smaller pieces.
+. Warm up milk and cream, not over 40°C/100F to support the yeast.
+. Create a yeast-dough out of flour, milk, cream, 2 eggs, butter, sugar, yeast. Last add the salt.
+. Add the lemon/orange peel, chopped almonds, raisins and knead the dough well.
+. Let the dough rise at a warm place for 60 minutes.
+. Form 2 breads out of it, cover and let it rise on the baking tray at a warm place for another hour.
+. Pre-heat the oven at 200°C/390F (normal mode).
+. Cut the breads crosswise with a knife.
+. Separate the egg yolk from the third egg, mix it with a bit of milk and coat the breads. Add the sliced almonds and sugar crystals on top.
+. Bake the breads in the center for 10 minutes.
+. Reduce heat to 175°C/350F, continue to bake for another 20 minutes. Cover them with aluminium foil if they brown too fast.
+
+image::easter_bread/easter_bread_before.jpg[Name, 640, 480]
+image::easter_bread/easter_bread_after.jpg[Name, 640, 480]
+
