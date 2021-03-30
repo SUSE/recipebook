@@ -1,5 +1,8 @@
 == Innovate Everywhere Recipes
 
+The latest version of the recipe book can be found here:
+https://suse.github.io/recipebook/recipes.html
+
 * Clone the repo and open recipes.adoc locally in a browser that supports
   AsciiDoc or in another tool such as asciidoctor
 
