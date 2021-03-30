@@ -1,0 +1,29 @@
+---
+name: Build the recipebook
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    name: run the build script
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: install asciidoctor
+        run: |
+          bundle config set path 'vendor'
+          bundle install --path vendor
+
+      - name: run the build script
+        run: bundle exec -- ./docbuild.sh
+
+      - name: deploy to github pages
+        uses: JamesIves/github-pages-deploy-action@4.1.0
+        with:
+          branch: gh-pages
+          folder: build
