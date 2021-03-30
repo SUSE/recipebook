@@ -38,8 +38,23 @@ Add your recipe under recipes/<recipe-type> ... desserts go under recipes/desser
 Images associated with the recipe should be added under the images folder at the top level, then
 inside a sub-folder with the recipe name
 
-Asciidoctor can be installed for Leap 15.2 at https://software.opensuse.org/package/rubygem-asciidoctor
-Other distributions can be found at https://asciidoctor.org/#a-linux-package-managers
+Asciidoctor can be installed for Leap 15.2 at
+https://software.opensuse.org/package/rubygem-asciidoctor Other
+distributions can be found at
+https://asciidoctor.org/#a-linux-package-managers. You can also
+install it using bundler or via gem directly:
+[source,shell]
+----
+bundle install
+# or
+gem install asciidoctor
+----
 
-After installing asciidoctor, run the build using ./docbuild.sh 
+After installing asciidoctor, run the build:
+[source,shell]
+----
+./docbuild.sh
+# or if you installed asciidoctor via bundler
+bundle exec -- ./docbuild.sh
+----
 The output of the build will be build/recipes.html
