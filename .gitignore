@@ -1,4 +1,4 @@
 build/*
-!build/_redirects
+!build/index.html
 .bundle/
 vendor/
