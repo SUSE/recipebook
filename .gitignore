@@ -1,1 +1,4 @@
-build/
+build/*
+!build/_redirects
+.bundle/
+vendor/

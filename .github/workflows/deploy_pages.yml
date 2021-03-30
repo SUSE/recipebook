@@ -1,7 +1,10 @@
 ---
 name: Build the recipebook
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -19,8 +22,8 @@ jobs:
       - name: run the build script
         run: bundle exec -- ./docbuild.sh
 
-      - name: upload build directory
-        uses: 'actions/upload-artifact@v2'
+      - name: deploy to github pages
+        uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
-          name: webpage
-          path: ./build
+          branch: gh-pages
+          folder: build
