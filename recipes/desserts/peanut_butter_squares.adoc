@@ -18,17 +18,23 @@ and super delicious!
 
 ==== Ingredients:
 
-* 1/2c (120ml) softened butter
-* 1/2c (120ml) sugar
-* 1/2c (120ml) brown sugar (firmly packed)
-* 1 egg
-* 1/3c (80ml) American peanut butter (Creamy Skippy or Jif)
-* 1tsp (5ml) vanilla
-* 1/2tsp (2.5ml) baking soda
-* 1/4tsp (1.25ml) salt
-* 1c (120ml) flour
-* 1c (120ml) oats
-* 11.5oz (325g) milk chocolate chips (Nestle)
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US     | Ingredient                  | Zutat
+
+| 120ml | 1/2c   | butter (softened)           |
+| 120ml | 1/2c   | white sugar                 |
+| 120ml | 1/2c   | brown sugar (firmly packed) |
+|   1   |  1     | egg                         |
+|  80ml | 1/3c   | American peanut butter (Creamy Skippy or Jif) |
+|   5ml | 1tsp   | vanilla extract             |
+| 2.5ml | 1/2tsp | baking soda                 |
+| 1.25ml| 1/4tsp | salt                        |
+| 120ml |  1c    | flour                       |
+| 120ml |  1c    | oats                        |
+|  325g | 11.5oz | milk chocolate chips (Nestle) |
+|=========================================================
+
 
 ==== Preparation:
 
@@ -41,3 +47,18 @@ and super delicious!
 the chocolate chips will start to melt. Use a spoon to evenly spread the melted
 chocolate across the top of the squares.
 . Enjoy!
+
+.All the ingredients
+image::peanut_butter_squares/peanut_butter_squares1.jpg[All the ingredients, 640, 480]
+
+.Mix ingredients as instructed
+image::peanut_butter_squares/peanut_butter_squares2.jpg[Mixing ingredients as instructed, 480, 640]
+
+.Spread mixture in 9x13 pan
+image::peanut_butter_squares/peanut_butter_squares3.jpg[Spread mixture in 9x13 pan, 480, 640]
+
+.After baking, spread chocolate chips on top
+image::peanut_butter_squares/peanut_butter_squares4.jpg[After baking, spread chocolate chips on top, 480, 640]
+
+.Final product, after evenly spreading melted chocolate
+image::peanut_butter_squares/peanut_butter_squares5.jpg[Final product, after evenly spreading melted chocolate, 480, 640]
