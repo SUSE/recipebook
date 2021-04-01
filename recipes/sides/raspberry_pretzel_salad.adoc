@@ -9,7 +9,7 @@ endif::[]
 
 
 === Raspberry Pretzel Salad
-image::raspberry_pretzel_salad/raspberry_pretzel_salad.jpg[Raspberry Pretzel Salad, 264, 245]
+image::raspberry_pretzel_salad/raspberry_pretzel_salad.jpg[Raspberry Pretzel Salad, 640, 480]
 
 Contributed by: Mike Latimer
 image:contributors/mike_l.png[Mike L]
@@ -19,20 +19,40 @@ for any holiday or special occasion. The combination of salty
 pretzels, tangy raspberries, and fluffy cream cheese can only
 be described as amazing!
 
-Ingredients::
+==== Ingredients:
 
-* Crust:
-** 2c (480ml) pretzels (Rold Gold Tiny Twists)
-** 1/2c (120ml) melted butter
-** 3tsp (15ml) sugar
-* Cream Cheese Layer:
-** 8oz (225g) package of cream cheese
-** 1c (240ml) sugar
-** 12oz (340g) carton of whipped cream (Cool Whip)
-* Raspberry Jello Layer:
-** 8oz (225g) package of raspberry flavored Jell-O
-** 2c (480ml) water
-** 20oz (560g) frozen raspberries
+The Crust Layer:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US     | Ingredient                  | Zutat
+
+| 480ml | 2c     | pretzels (Rold Gold Tiny Twists) |
+| 120ml | 1/2c   | butter (melted)             |
+|  15ml | 3tsp   | sugar                       |
+|=========================================================
+
+The Cream Cheese Layer:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US     | Ingredient                  | Zutat
+
+| 225g  | 8oz    | cream cheese                |
+| 240ml | 1c     | sugar                       |
+| 340g  | 12oz   | whipped cream (Cool Whip)   |
+|=========================================================
+
+The Raspberry Jello Layer:
+
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US     | Ingredient                  | Zutat
+
+| 225g  | 8oz    | raspberry flavored Jell-O (1 package) |
+| 480ml | 2c     | water                       |
+| 560g  | 20oz   | frozen raspberries          |
+|=========================================================
 
 Preparation::
 
