@@ -14,6 +14,10 @@ pages find main dishes (entrees for those in the US), sides, desserts,
 and drinks that will tantalize the taste buds and impress your friends!
 Innovation doesn't stop at dinner time, its time to bring open
 source to your kitchen!
+
+Find out more about how to contribute to the project at
+https://github.com/SUSE/recipebook.
+
 Have a lot of fun!
 
 [id='sec.main']
