@@ -1,7 +1,10 @@
 == Innovate Everywhere Recipes
 
-The latest version of the recipe book can be found here:
+The latest version of the recipe book can be found here, rendered by GitHub:
 https://suse.github.io/recipebook/recipes.html
+
+A nicer version should appear here after changes are merged, rendered by asciidoctor:
+https://opensource.suse.com/recipebook/recipes.html
 
 * Clone the repo and open recipes.adoc locally in a browser that supports
   AsciiDoc or in another tool such as asciidoctor
