@@ -96,6 +96,12 @@ ifndef::env-github[]
 include::recipes/main/schnitzel_viennese_style.adoc[]
 endif::[]
 
+ifdef::env-github[]
+<<recipes/main/wallenbergare.adoc#, Wallenbergare>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/wallenbergare.adoc[]
+endif::[]
 [id='sec.sides']
 == Side Dishes
 
