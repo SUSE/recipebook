@@ -1,0 +1,20 @@
+---
+vscode:
+  extensions:
+    - asciidoctor.asciidoctor-vscode
+tasks:
+  - name: Build the project
+    before: bundle install
+    command: bundle exec ./docbuild.sh
+  - name: Serve the recipebook
+    before: |
+      bundle install
+      bundle exec ./docbuild.sh
+    command: python3 -m http.server -d build
+ports:
+  - port: 8000
+    onOpen: open-browser
+github:
+  prebuilds:
+    addCheck: true
+    addComment: true
