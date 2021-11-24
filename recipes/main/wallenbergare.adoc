@@ -1,0 +1,79 @@
+[id='sec.wallenbergare']
+
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+=== Wallenbergare
+
+image::wallenbergare/wallenbergare.png[Wallenbergare, 696, 466]
+
+Contributed by: Jonas Forberg
+image:contributors/jonas_f.png[Jonas, 125, 140]
+
+Wallenbergare got very popular in Sweden in the 1930s and named after Amalia Wallenberg who was the wife of Marcus Wallenberg.
+
+Wallenberg is the largest and most famous finance families in Sweden and owns the majority of Ericsson, NASDAQ, SAAB just to mention a few.
+
+That family is the majority owner of EQT, so in a way they were owning SUSE for a while :) 
+Anyhow, Wallenbergare is a mild veal patty, mashed potatoes, peas, lingonberries and skimmed butter.
+It's not the most healthy dish, so you can't have it every day
+
+Ingredients (4 servings):
+
+.Wallenbergare
+[width="80%",cols="2,10",options="header"]
+|=========================================================
+|Metric | Ingredient
+
+|500 g | minced veal
+|4 | egg yolks
+|4 dl | heavy cream
+|5 ml | Salt
+|1 ml | White pepper
+|1 dl | breadcrumnbs (from white bread)
+|3 Tsp | butter to fry in
+|=========================================================
+
+
+.Mashed potatoes
+[width="80%",cols="2,10",options="header"]
+|=========================================================
+|Metric | Ingredient
+
+
+|300 g | Winter potatoes, peeled
+|1 dl | milk
+|1 Tsp | Butter
+|5 ml | salt
+|1 ml | pepper
+|=========================================================
+
+
+.To Serving
+[width="80%",cols="2,10",options="header"]
+|=========================================================
+|Metric | Ingredient
+
+
+| 100 g | newly cooced english peas
+|       | Rårörda lingon (Sweetened lingonberries)
+|       | skimmed butter
+|=========================================================
+
+You can find the recipe for Sweetened lingonberries link:https://www.swedishfood.com/swedish-food-recipes-side-dishes/476-lingonberries-sweetened[here]
+
+
+Preparation:
+
+. Keep all ingredients for the Wallenbergare really cold, if they are not very cold they could separate and you wouldn't be able to form patties.
+Put minced veal in a bowl (also chilled) with the egg yolks and the spices and mix it with an electric mixer. Carefully add the cream, in a fine stream while the mixer is still running. Keep mixing until all cream is added, but don't over mix it, it might get to warm and separate if you do.
+. Put half of the breadcrumbs on a plate, dip your hands in cold water and form for patties of the loose minced veal mixture. Sprinkle the remaining breadcrumbs over the patties. Let them rest for a couple of minutes (until you warm up the frying pan)
+. Fry the patties in butter on low to medium heat until you have a light golden color, they might need to finish of in the oven. The patties should be fluffy and "light".
+
+Served with mash potatoes, Sweetened lingonberries, peas and skimmed butter.
+Enjoy!
