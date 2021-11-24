@@ -15,10 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: install asciidoctor
-        run: |
-          bundle config set path 'vendor'
-          bundle install --path vendor
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true
 
       - name: run the build script
         run: bundle exec -- ./docbuild.sh
