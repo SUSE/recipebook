@@ -6,6 +6,10 @@ https://suse.github.io/recipebook/recipes.html
 * Clone the repo and open recipes.adoc locally in a browser that supports
   AsciiDoc or in another tool such as asciidoctor
 
+* Open this project in
+  https://gitpod.io/#https://github.com/SUSE/recipebook[gitpod] and edit it
+  directly there.
+
 * The GitHub preview of the in-development recipes is at
 <<recipes.adoc#>>.
 
