@@ -11,7 +11,7 @@ endif::[]
 === Soy Milk
 
 Contributed by: Stefan 
-image:contributors/stefan_w.png[Stefan, 140, 140]
+image:contributors/stefan_w.jpg[Stefan, 140]
 
 This recipe can be used as a base for your own tofu (see tofu recipe). It is also a good replacement for milk. In addition to the ingredients you also require a nut milk bag, cheese cloth or clean cotton kitchen towl.
 

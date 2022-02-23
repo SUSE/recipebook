@@ -10,14 +10,14 @@ endif::[]
 
 === Tofu
 
-image::tofu/tofu.jpg[Tofu, 640, 480]
+image::tofu/tofu.jpg[Tofu, 640]
 
 Contributed by: Stefan 
-image:contributors/stefan_w.png[Stefan, 140, 140]
+image:contributors/stefan_w.jpg[Stefan, 140]
 
 This recipe will result in about 2-3 portions of tofu. You require a cheese cloth and either a tofu press for tofu preparation or a cheese press.
 
-image::tofu/tofu_press.jpg[Wooden tofu press from Japan, 640, 480]
+image::tofu/tofu_press.jpg[Wooden tofu press from Japan, 640]
 
 Depending on the coagulant, temperature, stirring and weight and time on the tofu press you can get either silken tofu or different stages of firm tofu.
 
@@ -49,4 +49,4 @@ Preparation:
 . Put the lid on the press and add weight to it. Let the press do its job. I had my best results with 2kg for about 15 minutes, which yields a spongy tofu (see picture).
 . Store the tofu in brine and consume within 2-3 days. I usually use a container that fits the tofu without many gaps and fill it up with a brine consisting of at least 2 tsp of salt. You can also use soy milk in the brine for a brown colouring and additional flavour.
 
-image::tofu/tofu_consistency.jpg[Tofu consistency after 15 minutes with 2kg and slight stirring at 75 degrees Celsius, 640, 480]
+image::tofu/tofu_consistency.jpg[Tofu consistency after 15 minutes with 2kg and slight stirring at 75 degrees Celsius, 640]
