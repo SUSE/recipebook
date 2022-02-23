@@ -31,7 +31,7 @@ Depending on the coagulant, temperature, stirring and weight and time on the tof
 |=========================================================
 
 .Nigari replacement as a coagulant (still experimenting)
-[width="100%",cols="3,3,10,10"]
+[width="100%",cols="3,10,10"]
 |=========================================================
 | g    | Magnesium sulfage (Epsom salt) | Bittersalz (Nahrungsmittelqualität)
 | g    | Calcium sulfate (Gypsum)       | Gips (Nahrungsmittelqualität)
