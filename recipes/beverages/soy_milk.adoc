@@ -1,0 +1,58 @@
+[id='sec.soy_milk']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Soy Milk
+
+Contributed by: Stefan 
+image:contributors/stefan_w.png[Stefan, 140, 140]
+
+This recipe can be used as a base for your own tofu (see tofu recipe). It is also a good replacement for milk. In addition to the ingredients you also require a nut milk bag, cheese cloth or clean cotton kitchen towl.
+
+.Soy Milk
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US | Ingredient | Zutat
+
+| 100g  | 4oz  | Dried soy beans | Getrocknete Sojabohnen
+| 0.7l  | 50oz | Water | Wasser
+| 330ml | 11oz | Water | Wasser
+| 660ml | 22oz | Water | Wasser
+| 250ml | 8oz  | Water | Wasser
+|=========================================================
+
+.additional flavouring for soy milk
+[width="100%",cols="3,3,10,10"]
+|=========================================================
+| 1 dash  | Salt | Salz
+| 1/2 tsp | Vanilla | Vanille
+| 8g      | Vanillasugar | Vanillezucker
+|=========================================================
+
+To reduce the strong taste of soy milk you can do following steps first:
+
+. Bring about 300ml (10oz) water to a boil and let it cool down to about 80-90 degrees Celsius.
+. Put 100g (4oz) of dried soy beans in a bowl and pour the hot water over the beans.
+. After 15 minutes drain the beans in a sieve and wash them.
+. Optionally you can pull off the skin of the beans, but in my experiences this is not worth the effort.
+
+Preparation:
+
+. Put the beans, together with about 400ml (13.5oz) of water, in a large bowl.
+. Cover the bowl with a lid and let the beans soak for about 10 hours.
+. Drain the beans in a sieve and wash them.
+. Put the beans, together with 330ml (11oz) of water, in a blender and blend them to a liquid. On a Blendtec Blender you can use the "Green Smoothie" program. In case you are preparing soy milk for drinking and not for tofu add a dash of salt.
+. Bring 660ml (22oz) of water to a boil in a large pot.
+. Add the soy bean mixture to the pot and let it simmer at medium heat for 15 minutes. Be cautious, as the mixture behaves very much like milk and easily boils over.
+. Turn off the heat and let it cool down a bit. In the meantime put a fine sieve on a big pitcher to drain the liquid into. Put a nut milk bag (or a kitchen towl or cheesecloth) in the sieve.
+. Pour the liquid in the nut milk bag.
+. Add up to 250ml (8oz) of cold water on top of the mixture in the nut milk bag. This will help cool down the mixture and stretches the milk a bit.
+. Wring out the bag. The remains in the bag are called Okara and can be used for patties and other recipes. Okara is rich in proteins and easily picks up flavours.
+. Now you can add additional flavouring to the soy milk. Either add 1/2 tsp of vanilla extract (or paste) or a packet (about 8g) of vanilla sugar for a vanilla flavoured soy milk.
+. Fill the liquid in a hot cleaned glass bottle and store it in a fridge. Consume within 2-3 days.
