@@ -102,6 +102,13 @@ endif::[]
 ifndef::env-github[]
 include::recipes/main/wallenbergare.adoc[]
 endif::[]
+
+ifdef::env-github[]
+<<recipes/main/tofu.adoc#, Tofu>>
+endif::[]
+ifndef::env-github[]
+include::recipes/main/tofu.adoc[]
+endif::[]
 [id='sec.sides']
 == Side Dishes
 
@@ -243,4 +250,11 @@ ifdef::env-github[]
 endif::[]
 ifndef::env-github[]
 include::recipes/beverages/tom_jerry.adoc[]
+endif::[]
+
+ifdef::env-github[]
+<<recipes/beverages/soy_milk.adoc#, Soy Milk>>
+endif::[]
+ifndef::env-github[]
+include::recipes/beverages/soy_milk.adoc[]
 endif::[]

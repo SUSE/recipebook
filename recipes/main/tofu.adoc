@@ -1,0 +1,52 @@
+[id='sec.tofu']
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+ifndef::env-github[]
+:imagesdir: images
+endif::[]
+
+
+=== Tofu
+
+image::tofu/tofu.jpg[Tofu, 640]
+
+Contributed by: Stefan 
+image:contributors/stefan_w.jpg[Stefan, 140]
+
+This recipe will result in about 2-3 portions of tofu. You require a cheese cloth and either a tofu press for tofu preparation or a cheese press.
+
+image::tofu/tofu_press.jpg[Wooden tofu press from Japan, 640]
+
+Depending on the coagulant, temperature, stirring and weight and time on the tofu press you can get either silken tofu or different stages of firm tofu.
+
+.Tofu
+[width="100%",cols="3,3,10,10",options="header"]
+|=========================================================
+|Metric | US | Ingredient | Zutat
+
+| 2l    | 68oz  | soy milk (10% soy bean content)     | Sojamilch (10% Sojaanteil)
+| 25ml  | 0.8oz | Nigari (following the instructions) | Nigari (der Packungsbeilage folgend)
+|=========================================================
+
+.Nigari replacement as a coagulant (still experimenting)
+[width="100%",cols="3,10,10"]
+|=========================================================
+| g    | Magnesium sulfage (Epsom salt) | Bittersalz (Nahrungsmittelqualität)
+| g    | Calcium sulfate (Gypsum)       | Gips (Nahrungsmittelqualität)
+| g    | Citric acid                    | Zitronensäure
+| 100g | Boiling water                  | Kochendes Wasser
+|=========================================================
+
+Preparation:
+
+. Heat the soy milk to 75-80 degrees Celsius. The hotter the liquid the more solid the resulting tofu.
+. Prepare the Nigari following the instructions on the packaging. Alternatively prepare the Nigari replacement (instructions to follow, once I figured out a good mixture).
+. Stir the hot soy milk with a wooden spoon to create a vortex. Add the coagulant and stop the vortex with the spoon. More vigorous stirring will result in a firmer tofu. The liquid should start to separate shortly after adding the coagulant.
+. Let the mixture sit for 15 minutes.
+. Prepare the tofu press by putting the cheese cloth in it and putting the press either in the sink or a large pot. Separate the curds from the liquid with a ladle and put them in the press. If you want, you can collect the remaining liquid and use it like whey.
+. Put the lid on the press and add weight to it. Let the press do its job. I had my best results with 2kg for about 15 minutes, which yields a spongy tofu (see picture).
+. Store the tofu in brine and consume within 2-3 days. I usually use a container that fits the tofu without many gaps and fill it up with a brine consisting of at least 2 tsp of salt. You can also use soy milk in the brine for a brown colouring and additional flavour.
+
+image::tofu/tofu_consistency.jpg[Tofu consistency after 15 minutes with 2kg and slight stirring at 75 degrees Celsius, 640]
