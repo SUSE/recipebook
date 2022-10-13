@@ -23,7 +23,7 @@ jobs:
         run: bundle exec -- ./docbuild.sh
 
       - name: deploy to github pages
-        uses: JamesIves/github-pages-deploy-action@v4.3.4
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           branch: gh-pages
           folder: build
